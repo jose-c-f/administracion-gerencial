@@ -1,0 +1,263 @@
+II - EVOLUCIÓN HISTÓRICA DE LA DIRECCIÓN DE ORGANIZACIONES
+
+Origen y evolución de las organizaciones a partir de la 2da. fase de la Revolución Industrial.
+
+Administración: disciplina científica que provee la herramienta para manejar organizaciones complejas.
+
+El proceso de su evolución ha sido determinado, principalmente, por dos factores cuyas influencias son recíprocas: la tecnología y la cultura.
+
+Entre 1880 y 1920 se lleva a cabo la llamada “Segunda Revolución Industrial”. Se producen cambios fundamentales en el sistema económico. El capital financiero se expande y crea concentraciones de gran magnitud en combinación con el capital industrial. Al mismo tiempo se dan progresos tecnológicos de importancia que, con junto con otros factores, crean un marco propicio para la expansión continua de esas concentraciones.
+
+La nueva estructura de producción, la gran empresa, es utilizada como instrumento capaz de eliminar la competencia, e implantar formas de control monopólico en los mercados para obtener las máximas utilidades.
+
+La gran empresa se caracterizó en su comportamiento productivo por una serie de rasgos específicos, a saber: el imperio de la planificación detallada del trabajo, y del sistema de puestos, sobre la iniciativa y habilidades del operario individual; la promoción de la máxima división del trabajo como medio, entre otros objetivos, de bajar el nivel de calificación de los operarios y aumentar así la oferta potencial de mano de obra; el uso masivo de fuerzas de trabajo no desarrolladas, en concordancia con lo anterior (mujeres y niños); el empleo de sistemas de incentivos como medio de promover una respuesta adecuada del operario al aumento del ritmo e intensidad de la tarea, sin costos adicionales para la empresa; la selección de las innovaciones técnicas, y la orientación de la investigación tecnológica en base a la lógica económica de una empresa que actúa en condiciones monopólicas u oligopólicas.
+
+Ahora bien, la gran empresa, necesitaba una tecnología renovada y adecuada a su naturaleza y objetivos. La respuesta tecnológica global a sus planteos la dio en aquel momento la dirección científica. Sus formulaciones fueron respondiendo a los problemas principales de la gran empresa.
+
+La creación arbitraria de la concepción mecanicista del operario, para responder a las necesidades de una programación detallada de la gran empresa que la transformara en un sistema estable de funciones en el cual el elemento humano no fuera un factor insustituible. Por esta concepción el hombre es un recurso de producción cuya actividad puede programarse por anticipado hasta en sus más mínimos detalles. Su comportamiento puede explicarse en un esquema simple de acción-reacción. Las acciones son los planes fijados para su actividad, y las órdenes específicas destinadas a concretarlos; las reacciones son sus respuestas en términos de trabajo que se ajustarán estrictamente a lo ordenado. Sobre la base de esta concepción, la administración científica creó una estructura donde existe certeza total respecto a cuál va a ser el comportamiento del hombre, y donde al ser él mismo una constante, es fácilmente intercambiable, y cumple como función la de llenar las descripciones de puestos preparadas por los programadores.
+
+Como dicen Pfiffner y Sherwood, “el movimiento pro-administración científica inspirado por Taylor... tuvo como principal objetivo la división del trabajo en las distintas partes que lo componen... Uno de los aspectos de esta manera de ver fue el desmenuzamiento del trabajo en labores tan pequeñas que los obreros pasaban toda la jornada laborable ejecutando una sola operación continuamente repetida”. Llegaron incluso a una concepción naturalista de la división del trabajo, físico y mental.
+
+La administración tradicional respondió a las exigencias del nuevo sistema de puestos con una concepción formalista de la empresa, por la que la estructura formal es la única existente en la empresa. La autoridad tiene como única fuente esa estructura y las líneas de autoridad y de comunicación están rígidamente jerarquizadas.
+
+El tradicionalismo lanzó la concepción hedonista de la motivación. Según ella el operario es un homo economicus, cuya base motivacional es el dinero, habiendo una relación directa entre remuneración y productividad. Para aumentar esta última sin aumentar los costos crea los sistemas de incentivos.
+
+La gran empresa integró rápidamente a sus estructuras las conclusiones surgidas de las concepciones del tradicionalismo. Estas concepciones, que conformaban, como afirma G. Friedmann “un sistema que aumenta la eficiencia del utillaje y de la mano de obra, que tiende al rendimiento máximo e inmediato de una y otra, y prefiere el éxito económico al bienestar físico y mental del obrero”, eran las respuestas adecuadas a las necesidades de la gran empresa de la época.
+
+Evolución de los paradigmas en la dirección
+
+Mecanicismo
+
+Los dispositivos mecánicos fueron desarrollados para ayudarnos en la realización de determinadas actividades encaminadas a obtener un fin y para aplicar más a fondo el principio de división del trabajo, que supone mayor especialización en la ejecución de las tareas, y por lo tanto mayor velocidad, mayor precisión y menor costo. El uso de instrumentos y la propia división del trabajo vienen evolucionando desde los tiempos prehistóricos, pero es a partir de la innovación y proliferación de máquinas que se produjo con la Revolución Industrial cuando aparece la mecanización, que traslada a la máquina los movimientos repetitivos del hombre, aumentando la productividad de éste. Muchas organizaciones modernas se diseñaron como máquinas esperando que sus empleados, en esencia, se comporten como si fueran piezas de la máquina. Se piensa en las organizaciones como en máquinas con componentes aceitados, precisos y absolutamente coordinados y eficientes. Este régimen de trabajo y de disciplina también tuvo raíces en la organización militar prusiana, donde el ejército se convierte en una organización altamente especializada, verticalista, estandarizada, con elementos fácilmente reemplazables, tomando la forma que hoy conocemos con la introducción de rangos, uniforme, un lenguaje de órdenes y especialización de las tareas. También en el terreno militar surge el concepto de separación entre funciones de mando y de asistencia. La nueva tecnología fue, entonces, acompañada por la mecanización del pensamiento y de la acción humana. Estas tendencias adquirieron particular relevancia en las empresas industriales, porque la aparición de las máquinas en la producción tornó ineficientes las maneras aplicadas hasta ese momento para distribuir el trabajo. Así fue como, hacia fines del Siglo XIX y comienzos del Siglo XX, trataron de elevar el rendimiento de sus operarios, aplicando nuevos principios y métodos a fin de aumentar la producción y sus ganancias.
+
+Las características de las organizaciones así estructuradas consisten en trabajar tan exactamente como sea posible, a través de patrones de autoridad, es decir en términos de responsabilidad de los trabajos y del derecho a dar órdenes y exigir una exacta obediencia. Estos patrones de autoridad hacen como puentes de resistencia para limitar las actividades en una dirección y potenciarlas en otra. Muchos años más tarde, los investigadores del Instituto Tavistock (Londres-GB)2, dieron a este paradigma el nombre de Mecanicismo, que alude metafóricamente a que sus propulsores ven a la organización como a una máquina.
+
+El “Taylorismo” El primer exponente notable de este paradigma fue Frederick W. Taylor, ingeniero de una de las mayores empresas industriales de EE. UU. a fines del Siglo XIX, quien implantó una concepción –entonces totalmente nueva- de la organización del trabajo fabril. La denominó “Administración científica” y se basaba en el supuesto de que las empresas sufrían “enormes pérdidas”, causadas por la ineficiencia del trabajo humano, cuyas razones serían: La deliberada lentitud del personal El carácter de los obreros (holgazanes e ineptos).
+
+La falta de métodos racionales de trabajo, por culpa de los propios empresarios.
+
+El error de éstos en cuanto a creer en la capacidad e iniciativa de los trabajadores, quienes no están bien dotados para ello.
+
+El desaprovechamiento de la ambición personal de aquéllos, que debería ser estimulada con incentivos económicos (rechazaba, pues, los acuerdos o regulaciones de salarios).
+
+Frente a este cuadro desarrolló los principios que son fiel expresión del paradigma mecanicista: Se concibe el comportamiento de la empresa como totalmente ajustado a lo que se haya previsto en su organización formal (la oficialmente establecida); Se concibe el trabajo de los operarios como una ejecución mecánica y sin desvíos de las instrucciones y programas que se les indique; Se plantea la división del trabajo en rotundos términos de separación entre el trabajo intelectual y el trabajo manual;
+
+Se concibe al trabajador como guiado por su interés económico con exclusión de cualquier otra motivación.
+
+Consiguientemente, creó, recomendó y llevó a la práctica un conjunto de medidas. Básicamente: La organización del trabajo que ha de hacer el obrero es exclusiva facultad y responsabilidad del directivo. Por tanto, un sector de la empresa programa hasta el menor detalle; el otro debe ejecutar sin desvío alguno, y entre éstos, los "ejecutores", deben llegar a la máxima fragmentación y especialización repetitiva.
+
+Utilizar métodos científicos para determinar el modo más eficiente de realizar el trabajo.
+
+Seleccionar al personal más adecuado a cada trabajo, diferenciando a los "intelectuales" de los “ejecutores mecánicos" Instruir al trabajador para hacer el trabajo eficientemente, conforme a métodos basados en estudios de movimientos y tiempos, fichas de instrucciones precisas, estudios de costos, planeamiento; todos ellos tendían a mecanizar el trabajo humano para lograr "la máxima cantidad de trabajo propia de un operario de primera". (Taylor afirmaba que se debía determinar para cada tarea “the one best way”, la única y mejor forma).
+
+Controlar el rendimiento de los trabajadores para asegurar que han seguido los procedimientos adecuados del trabajo y se han conseguido los resultados esperados.
+
+Aplicar incentivos económicos: El estímulo económico será el medio principal de política de personal.
+
+Su objeto es generar competencia entre los obreros aprovechando la supuesta "ambición" de éstos.
+
+Pero el sistema de incentivos evitaba que su monto se elevase mucho; y por otro lado recomendaba “usar el trato duro” cuando fuese necesario.
+
+El Taylorismo encontró gran resistencia tanto de obreros como de científicos, y aún del Congreso de los Estados Unidos que en un momento dado prohibió su aplicación; aunque claro está, las empresas en forma más o menos encubierta, lo apoyaban. También se aplicó en Inglaterra, en Francia y en Alemania. Y aunque en todas partes recibió críticas similares, tuvo éxito por cuanto era la tecnología que necesitaban las grandes corporaciones monopolistas en ascenso en aquella época (comienzos del siglo XX). Aún hoy se puede ver en los comercios de comida rápida, cómo los empleados tienen aprendido hasta el último detalle. Los directivos y analistas tienen la tarea de “pensar”, mientras que los empleados tienen la tarea de “hacer”.
+
+El Taylorismo atravesó dos etapas fundamentales luego de su creación: la primera, que lo puso en el centro de los modelos de administración de la producción y que influyó decisivamente en la cultura empresarial de todo el mundo, comenzó alrededor de 1910, con la aparición de la “producción en cadena” en la fábrica de automóviles Ford, dando lugar a la fusión en lo que se ha llamado “Taylorismo-Fordismo” que logró maximizar la tasa de ganancia de las empresas; y la segunda es su profunda crisis a fines de los ’70, superado por otras técnicas de dirección ante la caída mundial de la tasa de ganancia.
+
+La burocracia El trabajo organizado sobre estos principios se vuelve tan rutinario como la precisión exigida a un reloj. Se espera que la gente llegue al trabajo a una hora determinada, cumpla un conjunto determinado de funciones, descanse en las horas señaladas para ello, después resuma las tareas realizadas y su trabajo acabó.
+
+Normalmente, a las organizaciones que han sido diseñadas y operan como máquinas –independientemente del tipo de actividad que desarrollan- se las denomina burocracias. Deben tal denominación al sociólogo alemán Max Weber, quien observó el paralelismo evidente entre la mecanización de la industria y la proliferación de las formas burocráticas de la organización. Hizo notar que la burocracia tiende a volver rutinarios los procesos de administración, exactamente como la mecanización lo hace con los de producción.
+
+En su trabajo observamos la primera definición concreta de la burocracia, como una forma de organización que realza la precisión, la velocidad, la claridad, la regularidad, la exactitud y la eficiencia conseguida a través de la división prefijada de las tareas, de la supervisión jerárquica, y de detalladas reglas y regulaciones.
+
+Sin embargo, muchas organizaciones se burocratizan en algún grado por el factor cultural, es decir, por el modo mecanicista del pensamiento que conforma nuestro concepto básico de lo relativo a una organización.
+
+Morgan señala que “Los principios [burocráticos] son básicos tanto para las burocracias centralizadas como para la organización fraccionada, donde varias unidades pueden trabajar de una manera semiautónoma bajo el control de una autoridad superior. Esta descentralización sin embargo sigue siendo ineficiente al momento de tomar decisiones apresuradas, por lo que hubo que pensar maneras de conciliación los requerimientos contrapuestos de la centralización y la descentralización. Esto ha llevado hasta cierto punto el desarrollo de determinadas técnicas de organización (como la administración por objetivos) y el diseño de sofisticados sistemas de gestión que se utilizan para efectuar el control de «arriba hacia abajo». De este modo las teorías clásicas de la organización se refuerzan con la apariencia de una invención moderna”.
+
+Para Weber la burocracia representa una forma de organización completamente racional y con la mayor posibilidad de lograr eficiencia administrativa en cualquier sistema económico, por lo cual la consideraba la configuración óptima para toda organización. Se interesó asimismo por las consecuencias sociales de la burocracia, y en este terreno reconoció que la burocracia tenía el potencial suficiente para mecanizar y convertir en rutina cada uno de los aspectos de la vida humana, erosionando el espíritu y la capacidad de acción espontánea.
+
+También la llamada “Teoría Clásica de la Organización”, en la que se inscriben los principios generales de administración enunciados por el francés Henry Fayol, responde a este paradigma, por cuanto afirma que “la característica de la organización estructurada es trabajar tan exactamente como sea posible, a través de patrones de autoridad”. Lo dicho no invalida la importancia que tuvieron –y aún tienen- dichos principios en la construcción formal de las organizaciones modernas.
+
+Crítica del mecanicismo La esencia misma de la mecanización descansa en el principio de reducir los procesos complejos en un conjunto de movimientos separados, que pueden ser reproducidos mecánicamente, principios de este tipo de organización que llegarán a su máxima expresión cuando los robots sean la principal fuerza productiva, y cuando las organizaciones puedan, literalmente, ser máquinas. Las ventajas y limitaciones del mecanicismo se pueden distinguir ni bien pensamos a las organizaciones como máquinas. Según Gareth Morgan, las organizaciones mecanicistas funcionan bien cuando 3 …existe una tarea lineal para realizar; …el entorno asegura que el producto realizado será el esperado; …se desee producir exactamente el mismo producto una y otra vez3; …la precisión sea una premisa; …la parte humana de la máquina sea obediente y se comporte como se le ha sido asignado.
+
+Aun cuando existen en la actualidad determinados tipos de organizaciones que aplican exitosamente el modelo mecanicista, cabe destacar que éste tiene severas limitaciones, entre las cuales podemos señalar las siguientes: Pueden crear formas organizacionales que tengan dificultades para adaptarse a cambios en el contexto.
+
+Pueden dar lugar a una burocracia sin límites.
+
+Pueden tener consecuencias no previstas y no deseables; por ejemplo, los intereses de algunos miembros de la organización pueden tomar preferencia sobre los objetivos de aquélla.
+
+Pueden traer efectos deshumanizadores sobre los empleados, especialmente en aquéllos ubicados en los niveles jerárquicos bajos.
+
+El hecho de que se adapten difícilmente a los cambios se debe a que las organizaciones mecanicistas se crearon para alcanzar determinados objetivos y no para las innovaciones. La flexibilidad y capacidad de acciones creativas, las cuales son más importantes que la mera eficacia, se ve socavada por la rigidez, la tendencia a la segmentación y diferenciación entre distintos niveles jerárquicos, funciones, roles y personas, que logran crear barreras y escollos. Esto produce ineficiencia y retrasos en las respuestas a situaciones no previstas. Los problemas de inactividad y falta de control son frecuentes. La información a menudo llega distorsionada, porque las comunicaciones entre los departamentos son pobres y el personal oculta sus errores por temor a ser castigado.
+
+Desde el punto de vista de las personas, la organización mecanicista tiende a limitar el desarrollo de la capacidad humana, moldeando al hombre como un complemento de los requerimientos de la organización en lugar de estructurar la organización de acuerdo con sus fuerzas y potencialidad. Ambos, empleados y empresa, pierden su disposición y por consiguiente la organización pierde la contribución inteligente y creativa que muchos trabajadores serían capaces de aportar si se les diera la oportunidad. Así, los trabajadores suelen no hacerse cargo de aquello que escapa a su alcance, produciendo en muchos casos actitudes negligentes (Ejemplos: “éste no es mi trabajo”, “la responsabilidad es de otro”).
+
+La intención de la organización mecanicista es que las partes contribuyan a las metas y objetivos del todo, pero interpretado desde una perspectiva más amplia, la estructura jerárquica no solamente es una red de tareas y roles sino también un sistema de promoción, donde los individuos compiten por las limitadas plazas más altas de la jerarquía. La competencia también ocurre por los recursos limitados con los que cuenta la organización y que son asignados a un área o áreas específicas. Como consecuencia, la organización mecanicista puede producir un comportamiento irracional para el conjunto total mientras que para el área afectada puede parecer racional. Entonces, las organizaciones formales a menudo se dirigen a la consecución de objetivos no formales que pueden llegar incluso a ser contrarios a los fundamentos del diseño original.
+
+Las fórmulas mecanicistas de la organización han resultado increíblemente populares, en parte a causa de su eficacia en la realización de numerosas tareas, pero también por su capacidad de reforzar y sustentar modelos específicos de poder y control.
+
+Organicismo Bajo la metáfora de la máquina, las concepciones sobre la dirección quedaron ceñidas a una suerte de maquinaria preocupada por relaciones entre objetivos, estructuras y eficiencia. Sus sostenedores trazaban el diseño de las organizaciones desde una perspectiva sumamente técnica y las tareas de alentar al personal cumplieron meramente el objetivo de "pagar lo justo por el trabajo realizado". A los pocos años de echadas las bases de este esquema, prerrequisito para los sostenedores de la armonía y de la eficiencia organizativa, otros acontecimientos generaron visiones diferentes de la cuestión. Sus antecedentes se remontan a inicios de la década del '20 del siglo pasado, cuando el ingeniero australiano Elton Mayo lleva a cabo sus famosas experiencias en la planta de Western Electric en Hawthorne (EE. UU.). Los estudios que realizaron Mayo y sus colaboradores estaban en principio destinados a la relación de las condiciones laborales en función de la productividad. Pero ellos, en cambio, revelaron: la importancia de las necesidades sociales en el mundo del trabajo, y en el modo en que los grupos laborales pueden satisfacer estas necesidades restringiendo la producción; la posibilidad de que existiera una "organización informal" basada en la camaradería de los grupos.
+
+Esto demostró que las actividades laborales están influidas por la naturaleza del ser humano y que se debe prestar una atención considerable a este hecho.
+
+La cuestión subyacente en los estudios mencionados en el párrafo anterior es la relación entre individuos y grupos. Surge entonces una nueva teoría basada en la idea de que los grupos humanos, al igual que los organismos biológicos, trabajan más eficazmente cuando sus necesidades son satisfechas. Esta concepción trae aparejada desastrosas implicaciones para las organizaciones burocráticas, que consideran a los individuos motivados únicamente por el dinero o por la posibilidad de tener un trabajo. Es entonces cuando se empieza a elaborar la idea de replantear las relaciones interpersonales y el trabajo propiamente dicho para crear condiciones de desarrollo personal, que simultáneamente ayudasen a la organización a conseguir sus aspiraciones y objetivos. En otras palabras, la idea de una nueva organización en la que tanto ésta como sus integrantes, salieran mutuamente favorecidos.
+
+Estas formulaciones produjeron un fuerte impacto en la forma de pensar las organizaciones. A la vez, debemos advertir que los experimentos y los nuevos conceptos a que dieron lugar no ocurrieron en el “vacío” cultural.
+
+Fue una época de cambios en la sociedad y en los valores. Terminada la 1ª Gran Guerra, de consecuencias devastadoras, se registró un vigoroso crecimiento de la sindicalización, de revoluciones políticas con signo renovador. Creció la resistencia al autoritarismo y a la deshumanización del trabajo, expresados no sólo en grandes luchas sociales sino también en fenómenos de contraculturas en la organización, que constituyeron el principal descubrimiento de E. Mayo.
+
+Este planteo –y los nuevos métodos de dirección que proponía- dio origen a una corriente de pensamiento organizativo que él mismo bautizó como “Escuela de las "Relaciones Humanas". Según esa corriente, la falta de campo para el desarrollo de la iniciativa de los miembros de la organización, aún en los niveles de ejecución, perjudicaba el efectivo aprovechamiento de su productividad potencial. Las líneas de comunicación esquemáticamente fijadas de antemano llevarían al surgimiento de conflictos absurdos, que no existirían si esa comunicación fuera espontánea, libre de restricciones. Por otra parte, establecer a priori líneas de autoridad al margen de las que espontáneamente reconocían los miembros de la organización resultaba ser la fuente más frecuente de conflictos y se contraponía al logro de mayores niveles de eficiencia.
+
+A pesar del fracaso de no pocas de las medidas que implantó Mayo, de su mezcla de ingenuidad y paternalismo, y del brusco retroceso social y político causado por la gran crisis mundial iniciada con el “martes negro” de octubre de 1929, nuevas investigaciones –particularmente las de Chester Barnard, creador de la Escuela de los Sistemas Sociales- retomaron y reforzaron la atención a los aspectos humanos y técnicos de la organización, y al hecho de que ésta depende de un amplio entorno para conseguir sus fines. Entonces surge la necesidad de pensar a las organizaciones como "sistemas abiertos" que deben mantener una relación apropiada con el entorno si es que desean sobrevivir, cuestión relevante a la que los teóricos clásicos no prestaron atención.
+
+En su conjunto, las corrientes sociológicas hicieron serios esfuerzos por sistematizar el análisis de importantes aspectos no encuadrados hasta entonces en los esquemas tradicionales de la organización formal, para demostrar su presencia y para precisar las formas de su influencia efectiva en el comportamiento de las organizaciones. En su análisis le daban preeminencia sobre todo a los procesos que llevaban a aumentar o a deteriorar el grado de identificación de los individuos con las organizaciones, a elevar o disminuir su motivación, a generar y manejar los conflictos internos y externos. Partían para ello de incluir también los factores sociológicos y sicológicos en el análisis de la productividad y la eficiencia, al mismo nivel de importancia con que se investigaba la influencia de los factores tecnológicos y los que resultaban de los estímulos y compensaciones materiales.
+
+Estas corrientes de ideas fueron marcando el nacimiento de un nuevo paradigma, al que los investigadores del Instituto Tavistock –antes citado- denominaron “organicistas”, teniendo en cuenta algunos de los elementos básicos de este pensamiento, a saber: Asimila las organizaciones a los organismos biológicos. Ésta es la base de la metáfora orgánica.
+
+Las estudia como sistemas abiertos, cuyo punto clave es el hincapié en el entorno en el que ellas existen, mientras que los “mecanicistas” la trataron como a un sistema mecánico cerrado.
+
+Consecuencia de lo anterior, las define en términos de subsistemas interrelacionados.
+
+Postula que en un entorno en que los cambios –tecnológicos y de mercado- están a la orden del día y se producen con mayor velocidad y frecuencia, la organización requiere de mayor flexibilidad.
+
+Las diversas teorías encuadradas de manera genérica en el paradigma “organicista” mostraron, en la práctica, ventajas y limitaciones. En cuanto a las ventajas podemos destacar las siguientes: El descubrimiento de la importancia del entendimiento de las relaciones de la organización y su entorno.
+
+La dirección de las organizaciones puede aumentarse generalmente a través de una sistemática atención a las necesidades que deben ser satisfechas para que la organización sobreviva.
+
+Podemos identificar las distintas especies de organización, sabiendo que en una organización siempre tenemos un abanico de opciones.
+
+La virtud de la forma orgánica de las organizaciones en los procesos innovadores.
+
+En cuanto a las limitaciones de la metáfora orgánica, podemos puntualizar: Hemos aprendido a ver a las organizaciones y sus entornos de un modo demasiado concreto cuando en realidad las organizaciones son el producto de muchas ideas, visiones, normas y creencias, tal que una forma y estructura son mucho más endebles que las de un organismo.
+
+La organización, a diferencia de los organismos, tienen la misma oportunidad de supervivencia, tanto si compiten como si colaboran.
+
+A diferencia de los organismos, las circunstancias en las que un elemento sabotea al trabajo en conjunto son excepcionales y potencialmente peligrosos.
+
+Los casos en los que los elementos de las organizaciones operan con un grado de armonía ideal son más la excepción que la regla.
+
+Y por último y debido a lo anterior, permitir que la metáfora orgánica se transforme en una ideología, de la misma manera que ocurrió con la metáfora de la máquina.
+
+Teoría de la Contingencia La disputa entre las tendencias “mecanicista” y “orgánica”, llevaron posteriormente a intentos de síntesis de numerosos teóricos administrativos y dirigentes de empresas -y de todo tipo de organizaciones en general-.
+
+Dándose cuenta de que cualquiera de las posiciones planteadas era incapaz de resolver por sí sola los múltiples y contradictorios problemas que exigían solución, a muchos se les impuso la necesidad de integrar ambos.
+
+¿Cómo? A veces, pretendiendo incluir en la organización formal los aspectos sicológicos y sociológicos pertinentes, sometidos previamente a un profundo y sistematizado análisis. Otras veces, flexibilizando los rígidos esquemas tradicionales para mejor adaptarlos a las cambiantes exigencias externas e internas.
+
+Sobre esta doble atención -a los aspectos humanos y técnicos de la organización- se apoya la comprensión de estas como “sistemas sociotécnicos". Es decir, que ambos aspectos del trabajo son mutuamente interdependientes, con lo que alteraciones en uno siempre tendrán consecuencias sobre el otro. La solución a este tipo de contingencias entonces radica en encontrar un medio para reconvertir las necesidades humanas y la eficiencia técnica. El desarrollo inicial de este enfoque del problema correspondió a los investigadores del Instituto Tavistock, de Londres, a comienzos de la década del ’60. Entre ellos debemos destacar a T. Burns y G.
+
+M. Stalker, quienes influenciados a la vez por las corrientes conductistas y por el enfoque de sistemas, estudiaron sobre la realidad de una veintena de industrias, la relación de las empresas con su medio ambiente, arribando a la conclusión de que parecen existir dos sistemas netamente diferenciados de administración: Uno, que llamaron "mecanicista", define con precisión "los métodos, obligaciones y poderes técnicos atribuidos a cada función; la interacción dentro de la administración tiende a volverse vertical... todo el conocimiento... sólo se encuentra o debería encontrarse en el vértice de la firma".
+
+En el otro, "orgánico", "la interacción se realiza tanto vertical como lateralmente..." y las tareas se realizan no tanto por una definición estricta de métodos y obligaciones como por el conocimiento general de las necesidades y objetivos de la empresa. Lo más notable de sus descubrimientos fue que mientras "el sistema mecanicista parecía ser apropiado a empresas relativamente estables... el orgánico parecía exigido por las condiciones de transformación".
+
+Establecieron pues una primera relación: en empresas estabilizadas, procedimientos más formales, menor delegación y control más estrecho; y en empresas dinámicas y variables, mayor autonomía de decisiones y supervisión más amplia.
+
+Por su parte, Paul Lawrence y Jay Lorsch investigaron en industrias de tres ramas: plásticos, alimentos envasados y contenedores, tratando de evaluar la manera en que influyen sobre la eficiencia las dos direcciones básicas de la estructura: la división departamental y la coordinación integradora; consideraron también los diferentes grados de estabilidad y la influencia del ambiente.
+
+Como fruto de este estudio, formularon lo que se ha convertido en el concepto fundamental de la llamada "Teoría de la contingencia" o "administración de contingencia": "No existe una única manera de mejor organizar... las organizaciones necesitan ser sistemáticamente ajustadas a las condiciones ambientales". De tal manera, no rechaza los principios y preceptos de las diversas corrientes teóricas, sino que condiciona su aplicación a las circunstancias, a la contingencia (es decir, "a lo que puede suceder").
+
+Según Fred Luthans, uno de los mentores de esta teoría, no se trata de un enfoque asistemático ni librado a la casualidad. Explica que la relación contingente es una relación funcional entre dos o más variables, que puede expresarse por el par "si-entonces", donde el condicional "si" denota la variable independiente (por ejemplo: estado de la tecnología, estructura del mercado) y el consecuente "entonces" señala a la variable dependiente (por ejemplo: el estilo de supervisión a aplicar, el grado de centralización necesario). Y afirma: "La Administración de Contingencia se ocupa de la relación entre variables circundantes pertinentes y conceptos y técnicas de administración apropiados, que lleven al logro eficaz de objetivos". Veamos un sencillo ejemplo de relación contingente brindado por este autor: Si en la cultura social predomina la tendencia a la libre expresión, y si la empresa ocupa personal muy calificado en operaciones de alta tecnología, Entonces es recomendable una supervisión abierta y participativa para alcanzar mayor eficacia".
+
+El calificativo de "circundantes" se refiere a todas aquellas variables que están fuera de la administración, que la circundan; es decir, el medio. Pero no sólo el medio externo (clientes, competidores, régimen legal, situación económica, etc.), que es poco controlable, sino también el interno (más controlable), que es básicamente el sistema de organización formal, su estructura y sus procesos. Esta clasificación puede verse claramente graficada en el cuadro siguiente, el que Luthans denomina "Categorías del medio":
+
+Ilustración 1 CATEGORÍAS DEL “MEDIO” DE LA ADMINISTRACIÓN DE CONTINGENCIA
+
+El gráfico consiste en tres círculos concéntricos:
+
+Medio interno, comprende el sistema de organización formal (de estructura, de procesos, de tecnología)
+
+Medio externo específico, comprende competidores, clientes y proveedores
+
+Medio externo general, comprende social, tecnológico, económico y político legal
+
+A dicho gráfico nos permitimos hacerle algunas observaciones: En el medio interno, “procesos” se refiere a toma de decisiones, comunicación y control. (Otros incluyen planeamiento y dirección) Entre los proveedores, F. Luthans incluye a la fuerza de trabajo.
+
+En opinión de la Cátedra, la “organización informal” debería incluirse en el “Medio interno”.
+
+La mayoría de las veces, la variable independiente es el medio (en cualquiera de sus clases) y la variable dependiente son las técnicas administrativas. En ocasiones, sin embargo, puede ocurrir lo contrario. En otro ejemplo veremos ambas circunstancias posibles: Si la producción es del tipo "en cadena" o de "línea de montaje" (variable del medio interno: organización tecnológica) … … entonces la supervisión deberá ser muy centralizada, con tendencia al autoritarismo (concepto y técnica de administración) Pero también: Si en esa empresa la Dirección establece un manejo más abierto en la supervisión de personal, del tipo "democrático", … entonces el proceso productivo será impulsado a un mayor desacople de sus etapas.
+
+En esta última alternativa, la dependencia de las variables se ha invertido respecto de la primera. También es posible que una variable del medio pueda ser la independiente y otra la dependiente, por ejemplo: Si la situación del mercado está sujeta a cambios muy rápidos e inciertos, … entonces los procesos de comunicación y de decisión (variables del medio interno) deberían adecuarse a la velocidad de los cambios para no dejar descolocada a la organización frente a los competidores.
+
+El objetivo de la Administración de Contingencia sería, pues, el de alcanzar la mayor efectividad en el manejo de las empresas mediante la aplicación de los conceptos y técnicas más apropiados a partir del conocimiento de su relación funcional real (no teórica) con las condiciones del ambiente en que está actuando. Los principios deberán ser sustituidos por "criterios de ajuste" entre la organización y el ambiente, y las normas por otros tantos entre la organización, la tecnología y el manejo de personal.
+
+Para esta finalidad, sus propulsores simbolizan el acervo de "relaciones contingentes" como una matriz de doble entrada, que se grafica más abajo, en la cual se hallarían los "si" (variables independientes) en uno de sus ejes, y los "entonces" (variables dependientes) en el otro. Las "celdillas" resultantes se irían llenando con las relaciones contingentes que se descubren. Claro está que reconocen que muy pocas son las que hasta ahora se han "llenado" y que, además, los ejemplos de dos dimensiones se toman con fines ilustrativos. "El desarrollo futuro de la Administración de Contingencia debe resolver el problema de la complejidad multidimensional de la práctica administrativa" (Luthans).
+
+Ilustración 2
+
+Marco conceptual de la Administración de Contingencia
+
+Es una grilla:
+
+abajo van las variables circundantes (condiciones):
+
+externas:
+
+sociales
+
+técnicas
+
+económicas
+
+políticas
+
+legales
+
+internas:
+
+de estructura
+
+de procesos
+
+de tecnología
+
+a la izquierda van las variables de administración (entonces):
+
+de proceso
+
+cuantitativas
+
+conductuales
+
+de sistemas
+
+Valoración y crítica de la Teoría de la Contingencia.
+
+1.- En primer lugar, debe señalarse que esta teoría reconoce antecedentes aún entre los autores clásicos y neoclásicos, entre ellos Fayol, que afirmaba: "no hay nada rígido ni absoluto... debe haber cierto margen para las cambiantes circunstancias".
+
+2.-Su desarrollo no fue mera especulación sino producto de diversas investigaciones sobre la realidad.
+
+Ejemplos: los estudios del Instituto Tavistock, de Londres, en minas de carbón; los de A. Gouldner, en una planta de yeso; los de la socióloga inglesa Joan Woodward, sobre 100 empresas; los de A. Chandler, en cuatro empresas líderes de los E.E.U.U.; y otros de los sociólogos organizacionales J. C. Emery, J. D. Thompson y Ch.
+
+Perrow. Cada uno de ellos ha aportado el descubrimiento de lo que, a sus respectivos criterios, son relaciones funcionales reales entre ciertos factores del ambiente y los diseños organizacionales y los sistemas administrativos más apropiados para lograr mayor eficacia en situaciones concretas.
+
+3.-Concordantemente con ese origen, los sostenedores de este enfoque procuran establecer un equilibrio entre la experiencia de los administradores prácticos -que se desconciertan ante algunos planteos de los teóricos y suelen tildarlos de "poco realistas"- y la ciencia de esos teóricos -cuyos avances encuentran la resistencia de quienes no los entienden o no desean cambiar sus hábitos-. F. Luthans dice, al respecto: "En ambos lados hay algo de verdad y de error. El problema principal es que ambas partes tienen diferentes supuestos. Los teóricos y los expertos dan por sentada, explícita o implícitamente, la universalidad de sus conceptos y técnicas. Por su parte, los practicantes suponen la universalidad de su estilo individual, aunque cuando aplican los conceptos y técnicas de Administración moderna son altamente situacionales. El enfoque de contingencia salva esta brecha entre la teoría y la práctica. Los conceptos y técnicas modernos no son erróneos ni irreales. Así como tampoco por fuerza los practicantes están equivocados. Lo que sucede es que muchos conceptos y técnicas no son adecuados a sus situaciones particulares. La administración de Contingencia relaciona funcionalmente condiciones situacionales dadas con conceptos y técnicas administrativos apropiados para lograr el fin propuesto".
+
+4.- En nuestra opinión, el "enfoque de contingencias" representa un significativo avance en cuanto reconoce la particularidad de cada organización (y de cada circunstancia o momento en la vida de ésta) sin dejar por ello de apelar a la validez universal del arsenal teórico, bien que relativizándolo conforme a la situación dada. Es por tanto menos rígido que la mirada teórica pura y más científico que el mero empirismo. Diríamos que hasta puede enriquecer la teoría al relacionarla dialécticamente con la práctica. Su mayor limitación estaría, justamente, en que parece haber tendido, hasta ahora, más a la búsqueda de un repertorio de reglas pragmáticas que a extraer nuevas leyes que expliquen el comportamiento de las organizaciones. Ello no impide que la Teoría de la Contingencia se vaya constituyendo en una valiosa herramienta para la estructuración y manejo de las organizaciones; en todo caso, el riesgo que se corre es que, por vía de la aplicación de las relaciones contingentes descubiertas como si fuesen recetas, se caiga en un nuevo mecanicismo ajeno al análisis concreto de la realidad, cuantitativo y cualitativo. En este sentido es alentadora esta advertencia del propio Luthans: "Los ejemplos de relaciones de contingencia enunciados... no deben tomarse como soluciones mecanicistas de complejos problemas administrativos".
+
+Nuevas tendencias La introducción de las tecnologías de información y el nuevo contexto mundial repercutió profundamente en la vida de las organizaciones, en la forma de dirigirlas y en sus estructuras. Está a la orden del día la necesidad de adaptación de los sistemas internos a las variaciones de contexto.
+
+Por un lado, la reducción de niveles en las estructuras organizativas parece ser un requerimiento ineludible de nuestro tiempo. Obedece, en realidad, a una necesidad imperiosa de origen prioritariamente financiero: el costo de las estructuras muy verticales es alto, es necesario reducirlo, y para lograr este fin se sacrifican niveles, mediante diversas modalidades.
+
+Simultáneamente, se incorporan velozmente nuevas tecnologías para el almacenamiento y procesamiento electrónico de la información y se revolucionan los sistemas de comunicación. Y estas transformaciones ofrecen la posibilidad de aplanar la pirámide organizacional, lo cual va construyendo nuevos principios para la dirección: tendencia a la descentralización de la toma de decisiones hacia los niveles de gerencias intermedias, participación más amplia de todos los sectores de la organización en el proceso de planeamiento, aumento de las responsabilidades de las funciones de staff por sobre las funciones de línea, menor dedicación a las tareas de dictado de órdenes de rutina y mayor tiempo dedicado a las tareas de análisis y diseño de políticas y sistemas para implementarlas. Estas tendencias van marcando un camino nuevo, el de la horizontalización, tanto en la configuración estructural de las organizaciones cuanto en la distribución del poder y en las posibilidades de desarrollo de sus miembros.
+
+Por el otro, se advierte una evolución hacia formas organizacionales basadas en la producción ligera, caracterizada por un ínfimo número de niveles jerárquicos, con un elevado grado de flexibilidad y con la presencia de grupos de trabajo. La comunicación se transforma de vertical a horizontal. Dicha transformación en el sistema productivo y en la organización del trabajo marca el paso de una producción de línea a una producción de volúmenes elevados y flexibles, que permiten una descentralización del trabajo y un ahorro en el tiempo de trabajo.
+
+Esta evolución, originada principalmente en razones de rentabilidad de las empresas, es concomitante a las características de los nuevos trabajadores, signadas por la preeminencia del conocimiento como cualidad demandada. Técnicos y profesionales, que manejan tecnologías complejas, que necesitan un grado de independencia para resolver situaciones utilizando las capacidades específicas que han desarrollado, y que por lo tanto no están dispuestos a obedecer lo que dicten rígidamente las jerarquías. Es más, si lo hicieran, rendirían mucho menos y esto no le conviene a las empresas. Es evidente la conjunción de las necesidades de éstas con las posibilidades que brindan los avances científicos y con las nuevas demandas de la cultura.
+
+En este sentido, parecería que la tecnología democratiza, que pone la información al alcance de “cualquier persona”, porque los procesos ya no son accesibles solamente para el experto, sino que pueden ser manejados en ciertos aspectos por todos los empleados. Sin embargo, todo esto podría llegar a suceder sólo en teoría, según funcionen los mecanismos internos del poder. “El problema de la horizontalización y la participación es que es un libreto escrito por la organización, por alguien que tiene poder y que los otros deben aceptar” (A.
+
+Petriella). Asimismo, la actitud de la mayoría de los ejecutivos es la de postular el trabajo en equipo, aunque según afirma Peter Drucker, “hoy en día se habla mucho del «trabajo en equipo», pero éste es un fenómeno que aún no se ha concretado. Todavía los ejecutivos creen que son los jefes, y la mayoría de los que tratan el tema presupone que existe un solo tipo de equipo que sirve para todo tipo de tareas y de empresas”.
+
+Exponemos algunas de las “transiciones” que se estarían produciendo, según John Naisbitt.
+
+De Economía basada en la industria a Economía basada en la creación y transmisión de la información.
+
+De Una dirección altamente tecnológica a una dirección con orientación hacia la alta tecnología, pero con compensación hacia lo humano.
+
+De Un sistema económico nacional a Un sistema económico globalizado.
+
+De Planeamiento a corto plazo a Planeamiento a largo plazo.
+
+De Una estrategia que busca el mantenimiento de la situación a Una estrategia creativa e innovadora, desde las bases hasta la alta dirigencia.
+
+De Estructuras jerárquicas estratificadas a Estructuras con canales de información no formales.
+
+De Concentración de actividades en grandes centros urbanos a Emigración hacia nuevos centros de desarrollo.

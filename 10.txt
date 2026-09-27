@@ -1,0 +1,149 @@
+X - PODER Y AUTORIDAD EN LAS ORGANIZACIONES
+
+Influencia, poder, autoridad
+
+La influencia es un proceso por el cual uno o más individuos inducen a otro u otros a hacer algo distinto de lo que harían habitualmente.
+
+El proceso de influencia incluye tres elementos:
+
+El agente que influye (O)
+
+El método de influencia ()
+
+El agente sometido a la influencia (P)
+
+La fórmula que describe el proceso de influencia es: O  P.
+
+Debido a que en los procesos de influencia pueden intervenir uno o más individuos, se pueden dar diversas relaciones, a saber:
+
+Uno sobre uno
+
+El grupo sobre uno.
+
+Un grupo sobre otro grupo.
+
+Uno sobre el grupo.
+
+Dentro de la estructura organizativa dicho proceso se expresa en los fenómenos de poder y de autoridad. Las vinculaciones entre estas tres categorías (influencia, poder, autoridad) son tratadas de diversas maneras por los autores que se ocupan del tema. No vamos a detallar todas las teorías que se han enunciado, nos limitaremos a explicar las principales tendencias, a través del examen de dos pares de relaciones: “influenciapoder” y “poder-autoridad”.
+
+Influencia y poder Para algunos, “el poder es la capacidad de influir sobre alguna persona o grupo con el fin de que acepten nuestras ideas o planes. En esencia, el poder permite al individuo lograr que los demás hagan lo que él quiere que hagan”, de lo que deriva que el poder es una de las formas de influencia, pues el campo de ésta abarca otras que no pueden considerarse poder (ver el esquema de Schermerhorn en la página siguiente).
+
+Otros invierten la ecuación: “El poder es influencia latente; y la influencia es poder en acción”; es decir que en lugar de ser el poder un tipo particular de influencia, la influencia sería una expresión del poder. Desde nuestro punto de vista estas posiciones, en principio opuestas, sin embargo, se complementan en una relación circular: el poder es una categoría particular de la influencia, que al ejercerse convierte la influencia potencial en real.
+
+Y siguiendo a Schermerhorn conoceríamos que existen otras formas de influencia que no implican poder, pues no se usan deliberadamente para que otros hagan aquello que deseamos y para lo cual los inducimos a hacerlo.
+
+Ejemplos de las relaciones asimétricas
+
+Popularidad) Ídolo deportivo o artístico.
+
+Idealización)Persona admirada o amada, sin correspondencia.
+
+Carisma) Líder político, religioso, caudillo o simple líder o cabecilla de un grupo.
+
+Sumisión al líder normativo) Persona cuyas indicaciones se aceptan por ser aquél cuyas normas generales de comportamiento son aceptadas. Por ejemplo, el padre respecto de hijos mayores de edad.
+
+Sumisión al experto racional) El empleado más capaz o antiguo o el técnico asesor que no tienen poder jerárquico, pero son escuchados por sus conocimientos, reales o percibidos.
+
+Sumisión al referente institucional) Persona cuyas indicaciones se aceptan por la investidura que les ha conferido una institución con la que uno se identifica; por ejemplo, los feligreses respecto de una autoridad religiosa, por el deseo de seguir perteneciendo a tal comunidad, aunque discrepen con ese jerarca.
+
+Conflicto desequilibrado, sometimiento a la fuerza) El empleado frente a las órdenes de un jefe al que no quiere ni respeta y que acata sólo por conservar su medio de subsistencia.
+
+Sometimiento sin implicancias emocionales) El mismo empleado frente a un jefe que le resulta indiferente. No le tiene aprecio, ni respeto ni odio.
+
+Poder y autoridad
+
+Para Max Weber el concepto de “legitimidad” del poder es fundamental, y es una condición que se cumple en el fuero interno del colaborador: cuando éste cree que es legítima la imposición de la voluntad del superior la acata voluntariamente y considera ilegítima la posibilidad de negarse a obedecer. A. Etzioni, siguiendo esta línea de pensamiento, explica que la idea de una aceptación “voluntaria” nos conduce al concepto de autoridad. Entonces, la autoridad sería el ejercicio de un poder que es legitimado, aceptado (no meramente acatado), por quienes son objeto de él. También la sustentó Chester Barnard, pensador enrolado en la corriente de “los sistemas sociales”, expresando textualmente: “Si una comunicación directiva es aceptada por aquél a quien está dirigida, su autoridad se establece o se confirma para él…Por consiguiente... la decisión si una orden tiene o no autoridad depende de la persona a quien se dirige... y no reside en quienes dan las órdenes”.
+
+Debemos aclarar que legitimidad no es sinónimo de legalidad. La existencia de lo legítimo no depende necesariamente de una norma legal, puede haberla o no. De hecho, de las bases de la autoridad que define Weber sólo una se basa en leyes, reglamentos y normas: la llamada “racional-legal”, en la que las órdenes son obedecidas porque el agente reconoce y comparte la norma que otorga al superior el derecho a emitirlas.
+
+(Este tipo de autoridad es la que sustenta su teoría de la burocracia como forma “ideal” de gobierno de las organizaciones). Las otras dos, tradición y carisma, no dependen ni son fruto de un sistema legal.
+
+Recordémoslas brevemente: La autoridad tradicional se basa en la percepción de que cierta persona o grupo están, por un derecho preestablecido, destinados a gobernar; el ejercicio de este tipo de autoridad es posible porque los colaboradores asumen como propios los valores de la estructura dominante. Mientras que la legitimidad de la autoridad carismática es dada por los mismos colaboradores quienes, influidos por el magnetismo personal del líder, creen que las metas que éste persigue son las mismas que ellos deben alcanzar, y de esa manera aquél obtiene el acatamiento de sus adeptos. Más adelante veremos que otros autores, sin contrariar la idea central (“autoridad es poder legitimado”) han descubierto otras fuentes de autoridad.
+
+En contraposición, afirman Robbins y Coulter: “La autoridad es un derecho legítimo que se detenta por la posición de una persona en la organización. La autoridad viene con el puesto. En contraste, el poder se refiere a la capacidad de un individuo de influir en las decisiones.” Esto se alinea con el llamado “concepto clásico”, para el cual la autoridad. “se refiere al derecho de dirigir las actividades de los otros” como ocurre con “los gerentes, en virtud de su posición y responsabilidad”, como lo explica D.R. Hampton. Nuevamente la contradicción parecería diluirse cuando Robbins y Coulter agregan: “La autoridad es una parte del concepto más amplio del poder. Es decir, los derechos formales que acompañan la posición de un individuo son sólo una forma mediante la cual un individuo puede afectar el proceso de decisión”. La coincidencia con Schermerhorn es evidente.
+
+(Nota: Para mayor abundamiento sobre este tema, véase “Algo más sobre el concepto de Autoridad”, al final de este capítulo).
+
+Conclusiones a) Para las modernas concepciones de la Sociología de la Organización, la aceptación es un componente insoslayable para gozar de una verdadera autoridad, capaz de motivar sanamente al personal.
+
+b) Sin perjuicio de lo dicho, no debe olvidarse que un problema fundamental de la teoría de la organización es determinar qué induce a la gente a obedecer las órdenes en un sistema jerárquico: ¿temor, aceptación de la legitimidad de quien da las órdenes? Ambas cosas. En cualquier estructura de organización tanto la aceptación como el temor están, en proporciones variables, en la base del acatamiento.
+
+c) Dada las diferencias semánticas entre los diversos autores consultados, en las siguientes páginas del presente capítulo aparecerán utilizados indistintamente los términos “poder” y “autoridad” con similar significación, según la fuente de la que provenga el respectivo texto.
+
+Fuentes del poder en la organización El poder es dinámico y multifacético, hay muchas fuentes potenciales de poder, muchas formas de manifestarlo, y sus resultados no son seguros pues existen otras personas que también tienen poder.
+
+Varios autores coinciden, con notoria aproximación, en que el poder proviene de las siguientes fuentes, que describiremos a partir de las diversas expresiones de aquéllos.
+
+Poder de recompensa o de prêmio. Los gerentes poseen este tipo de poder cuando los colaboradores los consideran capaces de proporcionarles lo que satisfaga sus aspiraciones. Podría medirse por el número de incentivos positivos que el superior puede ofrecer a su personal. También pesarán los “ingresos psíquicos”, promociones y otros reconocimientos intangibles que refuerzan el sentido de pertenencia y la autoestima. Tanto el valor de unos como el de otros no deben considerarse “absolutos”; también dependerán de la percepción del empleado para que influyan positivamente en su actitud laboral y en su nivel de satisfacción.
+
+Poder coactivo o de coerción: Es el reverso del poder de recompensa. Se basa en la percepción de que uno sufrirá un castigo si no se subordina a los deseos del agente de influencia. Puede ser usado por el superior como una manera de bloquear el acceso a la satisfacción de necesidades, por ejemplo, asignando tareas molestas, paralizar las promociones, avergonzar u hostilizar al empleado. [Véase al respecto en el capítulo XV: “Desmoralización en los lugares de trabajo”, correspondiente al punto del programa “Ética y Moral”.] Los dos tipos de poder que hemos visto hasta ahora son generalmente ejercidos al unísono para lograr el acatamiento a los designios del agente influyente. Pero el exceso de coerción puede producir un resultado opuesto al deseado, llevando a quienes se ven sometidos a ese poder a un abandono completo del área de influencia del agente.
+
+Poder legítimo: El poder legítimo se origina en los “valores internalizados... que determinan que un agente social posea un derecho legítimo a ejercer influencia... y que uno tenga la obligación de aceptar dicha influencia”. (French y Raven). Hampton da similar explicación: “A los gerentes se les considera con el derecho de ejercer la autoridad porque ésta es propia de su posición...” Estas definiciones trasuntan un criterio formalista de la autoridad, claramente orientado por el “concepto clásico” que vimos antes, en el que la aceptación o no del empleado no es considerada determinante de la legitimidad. Es interesante diferenciar lo que sería “poder legal” del “poder legítimo”, ya que se los puede confundir con “legitimado”. Si bien el poder de los gerentes se ve legitimado por quienes son sus seguidores, esto no siempre sucede.
+
+Poder de referencia: Los gerentes (u otros niveles supervisores) cuyos colaboradores se identifican con ellos y/o los imitan poseen el llamado “poder del referente”. Conductas competentes, ecuánimes, honradas, pueden constituirse en un modelo para sus colaboradores. De esa manera, además de adquirir genuina autoridad ante los suyos, pueden ayudarlos a modelar cualidades con las que éstos se identifican y que les sirve como medida de su propio desarrollo. En resumen, es una relación positiva y motivadora que se da entre los influidos y la persona que influye.
+
+Poder del experto: La posesión de un conocimiento específico es la base de este tipo de poder. “Cuando los colaboradores piensan que su superior cuenta con información y habilidad para mejorar sus eficiencias y su crecimiento aumenta la propensión a aceptar las instrucciones que reflejan dicha pericia”. Vale señalar que muchas veces este tipo de 70 Administración Gerencial – UTN - FRBA poder se hace presente en la faz informal de la organización, cuando los empleados acuden a consultar a aquél que consideran idóneo, sea o no su jefe formal.
+
+Formas básicas de expresar el poder Dentro de la organización hay tres formas básicas de expresar el poder: Descendente: es la influencia de un superior sobre un colaborador.
+
+Ascendente: Son los intentos de los colaboradores por influir en sus superiores. Algunas de sus estrategias son la persistencia, la presentación lógica de las ideas, la formación de coaliciones y el congraciamiento.
+
+Lateral: Cuando hablamos de poder horizontal, interdepartamental, relaciones externas y relaciones laterales nos estamos refiriendo a expresiones laterales del poder. Por investigaciones realizadas, se ha concluido que el poder lateral es esencial para que la realización del trabajo gerencial. El poder descendente (es decir, lograr que el trabajo se efectúe a través de los colaboradores) representa una parte mucho menor del tiempo y del esfuerzo del gerente de lo que hasta ahora se creía. Con frecuencia el gerente emplea la mayor parte de su tiempo fuera de la unidad laboral, tratando con otros jefes de departamento, de divisiones o de unidades subsidiarias, sobre los cuales no tiene un control formal.
+
+Modelos de organización Conforme a la manera como se ejerce y se distribuye en el poder, podemos identificar tres modelos básicos de organización. No son forzosamente excluyentes para una organización dada, pueden coexistir dos o más de ellos, y lo más probable es que en esos casos uno de los modelos sea el predominante.
+
+Modelo racional burocrático La autoridad es descendente, con canales de comunicación formales y procedimientos bien definidos. Tienen igual importancia la efectividad del gerente y el buen desempeño de los colaboradores y se trata de lograr esto a través de la llamada actividad gerencial humanista, dirigida a atenuar el impacto del poder descendente.
+
+En este modelo se considera perturbador e ilegítimo al poder ascendente, aunque en algunos casos muy estrictos podría tolerarse, a la vez que se lo controle.
+
+Modelo colectivo de consenso Las relaciones de autoridad formal se reducen al mínimo y se da preeminencia al trabajo en equipo, donde los aportes personales son bienvenidos en un medio de colaboración e integración.
+
+En este modelo, el poder ascendente se considera legítimo y es fomentado.
+
+Modelo plural/político Los objetivos de la organización son alcanzados mediante un proceso de negociación entre las diferentes coaliciones al tiempo que responden a los cambios del medio. Entendemos por coalición a una unión de personas con intereses similares, con el propósito de influir para que la organización alcance los objetivos que dicha coalición le adjudica.
+
+El modelo plural/político permite todas las formas de expresión del poder; más aún, considera que el poder lateral es necesario para la eficacia gerencial. Los grupos deben competir para obtener los recursos y dependen horizontalmente unos de otros para realizar su trabajo a tiempo. El poder ascendente adquiere importancia en la medida en que quienes ocupan puestos inferiores tratan de influir sobre los que ocupan puestos ejecutivos, que son quienes tienen mayor control sobre los recursos.
+
+Las relaciones entre el poder real y la jerarquía formal (que se grafican en la página siguiente) pueden ser comparadas con los modelos antes descriptos, no porque los reflejen con exactitud sino porque algunas de sus respectivas características admiten cierto de grado de asociación, cuya parcialidad y heterogeneidad evidencian la naturaleza compleja de la trama del poder en la organización.
+
+Adquisición y uso del poder “El poder es importante, y a los gerentes les conviene conocer su naturaleza”. Esta frase de Hampton es el eje de un desarrollo en el que se admite que el tema del epígrafe es “difícil”, suele parecer “desagradable”, con una “connotación de comportamiento egoísta, manipulador”, y por eso se rehúye hablar de él.
+
+Organización Burocrática
+
+El poder aumenta "linealmente" con la jerarquía
+
+Organización con Poder en las Bases
+
+El poder disminuye "linealmente" con la jerarquía
+
+Organización con Poder Repartido, Igualitaria
+
+El poder es igual para todos
+
+Dicho autor reproduce los resultados de una investigación efectuada por Jeffrey Pfeffer, profesor de la Stanford University, en torno a cómo la gente adquiere poder en la organización. Nos anticipamos a aclarar que ésta es la mera exposición de las conclusiones de los investigadores, lo que parece ocurrir en la realidad (o al menos en la del universo que estudiaron). Ellas de ninguna manera implican adhesión ni recomendación por parte de la Cátedra, que expone otra visión, distinta en muchos aspectos, en el Capítulo correspondiente al punto siguiente del programa, “Delegación y participación” Lo que sigue es un resumen de los aspectos de la citada investigación vinculados a la obtención del poder.
+
+Da poder tener algo que los otros quieren y que depende de usted y de su departamento.
+
+El hecho de contar con información que reduzca la incertidumbre o que ayude de alguna otra manera a los demás a afrontar las dificultades fortalece el poder de uno y de su departamento en relación con esas personas.
+
+Hacerse útil y acercarse lo más posible a ser irreemplazable intensifica el poder que uno tenga sobre la organización.
+
+Poder influir en alguna parte del proceso de decisión puede acrecentar el poder de influir en la decisión.
+
+Lograr un consenso con otros puede ayudar a nuestro grupo a exponer y hacer presión para obtener su resultado favorito en la lucha política respecto a algunos asuntos de la organización.
+
+Ocupar un lugar central en las redes de comunicación y poseer el arte de la comunicación persuasiva fortalece el poder.
+
+Una reflexión final de la Cátedra: En varias de estas estrategias de poder se advierte la presencia de la “organización informal”, que genera sus propios centros de poder, redes de comunicación, influencias por el conocimiento especializado, etc., superponiéndose a la estructura formal. A veces pueden resultar sanas y útiles a la organización, y en otras negativas y enfermizas.
+
+Algo más sobre el concepto de “autoridad” Esta cuestión pasa por dos ejes: el primero es la diferencia entre legalidad y legitimación, y el segundo deriva de éste, y es la existencia de dos significados para la palabra “autoridad”. La Enciclopedia Universal Sopena define legal como: “Que está prescrito por la ley y es conforme a ella”. Y a legítimo: “Que es conforme a las leyes”. Hasta aquí parecen lo mismo, pero la 2da. acepción de legítimo es: “Cierto, verdadero y genuino”.
+
+Volviendo a las definiciones del diccionario, lo legal depende del derecho positivo, que es el derecho escrito (en el caso de las organizaciones privadas, sus estatutos, reglamentos, etc.), mientras que lo legítimo es lo genuino, lo verdadero. Claro que, ¿para quién es, genuino o verdadero? Respondemos: para los valores vigentes en una sociedad dada, a los ojos y la conciencia de los Hombres en un momento y lugar dado. La historia demuestra que la legitimidad de un derecho suele recorrer un largo camino hasta consagrarse en la ley.
+
+En la ciencia de la administración, o en sus interpretaciones tradicionales -ligadas sobre todo a lo formal, a lo establecido en reglas oficiales-, autoridad es sinónimo de poder formal, legal. Pero aparece la Sociología de la Organización que introduce un nuevo elemento: la legitimidad. O sea, lo que la gente considera genuino y verdadero. Desde este punto de vista, la autoridad (la “verdadera”) no se alcanza sólo con la designación formal y los poderes que ella comporta; necesita de la legitimación, que sólo puede producirse en el fuero interno de los colaboradores, y aún en la conciencia colectiva del grupo.
+
+Por eso es necesario diferenciar el poder del individuo del poder del puesto. El primero está sujeto a cambios, a fluctuaciones, conforme sean las actitudes, comportamientos, de quien lo posee, o la percepción que sus colaboradores tengan de ellos. El segundo está fijado en las normas formales, sólo cambia cuando los niveles superiores a aquél lo determinen oficialmente. Podríamos decir que es una autoridad de respeto obligatorio, imponible coercitivamente, y relativamente estable (mientras no se la quiten o se la amplíen).
+
+Las tendencias actuales en materia de supervisión se dirigen a que los jefes dotados de autoridad del puesto sepan también ganarse, ante sus colaboradores y aún ante terceros, una genuina autoridad individual.
+
+Una prueba más de la diferencia es la existencia de personas que, careciendo de autoridad formal gozan sin embargo de autoridad individual. Por ejemplo, los que llamamos “poder del experto” y “poder de referencia”, propios de quienes son respetados por lo que saben o son y no por el cargo que ostentan. Si bien el uso indistinto de los términos lleva a veces a confusión, lo que existe, sin duda, es el poder, la capacidad de modificar comportamientos de otros, o al menos influirlos. Ejemplo: el conocimiento específico de un asesor, que influye en las decisiones de alguien que no le está colaborador porque se valora su dominio de la materia.

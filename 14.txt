@@ -1,0 +1,425 @@
+XIV - ESTRATEGIA Y PLANEAMIENTO
+
+El vocablo “estrategia”, originado en el ámbito militar con el significado de “Arte de coordinar todo tipo de acciones para la conducción de una guerra o la defensa de un país” fue adoptado en el lenguaje de la Gestión de Organizaciones a comienzos del Siglo XX, como “un conjunto de decisiones importantes que regulan el comportamiento de una organización, por lo tanto, no se la utiliza para referirse a una decisión en particular como podría ser la elección de un objetivo o de una política.” Con una visión más profunda, Jean Paul Sallenave, dice que “estrategia de empresa es el conjunto de relaciones entre el medio ambiente interno y el medio externo de la empresa” El gerente estratega está constantemente sondeando el medio en busca de oportunidades. La planificación estratégica es el proceso por el cual los dirigentes ordenan sus objetivos y sus acciones en el tiempo. El concepto de estrategia y el de planificación están ligados ya que ambos indican una secuencia de acciones ordenadas en el tiempo de tal forma que se puedan alcanzar dichos objetivos. Una estrategia empresarial consiste en un plan de asignación de recursos de manera tal que tienda a modificar el equilibrio competitivo a favor de la organización.
+
+Estrategias y cultura
+
+En su trabajo, Sallenave, intentando recrear las relaciones entre estrategias, estructuras y cultura, nos presenta la siguiente paradoja: por una parte, la estructura sigue la estrategia, pero, por otra parte, la estrategia de mañana surge de la estructura de hoy. Vemos a la estructura como causa y efecto de la estrategia. Por otra parte, la estructura es a la vez freno y motor de las estrategias: por un lado, las impulsa, y por otro lado la inercia se opone al cambio.
+
+Hay que establecer una estructura lo suficientemente flexible para que se ajuste al cambio continuo que implica un proceso estratégico, y lo suficientemente estable para asegurar la permanencia de la información, de la toma de decisiones, de la implementación y del control de la estrategia. Y para ello nos apoyamos en el esquema organizacional. Tengamos en cuenta que la cultura de una organización es un conjunto de maneras de pensar, de sentir y de actuar, es como la identidad de la organización, y la cultura impregna a todos los componentes del esquema organizacional de una empresa: las personas, su sistema de motivación, las tareas, la estructura y los sistemas de información y decisión.
+
+Como se ve, la estrategia está influenciada por la cultura, el cambio y la estructura.
+
+Cultura
+
+Esquema organizacional
+
+Estrategia
+
+Desempeño
+
+Ilustración 16
+
+Cultura y Estrategia
+
+La estrategia indica el intercambio existente entre la Organización (a través de sus estructuras) y el ambiente externo. Este intercambio esta intensamente influenciado por diversas fuerzas, que dependiendo su campo de acción pueden ser micro o macroestructurales, y por otro lado pueden ser micro o macro culturales. De esta manera podemos encontrar distintas corrientes que afecten a la estrategia, y pueden ser positivas (sinergia organizacional, colaboración del estado) o negativas (restricciones organizacionales, legales o culturales)
+
+Estrategia y Cambio
+
+Podemos reconocer tres clases de cambio:
+
+compulsivo: realiza los cambios por el solo hecho de creer que cambio implica progreso, entonces no necesitan ningún modelo de cambio ni objetivos: el cambio es suficiente en sí mismo.
+
+imitativo: encara los cambios, pero sin objetivos. Solo realiza los cambios porque sus competidores lo hicieron, y si no reaccionan en ese sentido no podrán ser competitivos. Tal vez, lo que no sepa el cambiador imitativo es que los cambios encarados en las estructuras de su competidor obedecen a un cambio de estrategia comercial y/o financiera, en donde él será la primera víctima.
+
+creador: es la esencia de la estrategia. Se requiere un objetivo y un modelo. Se aplica a la estrategia, a las estructuras y a las personas.
+
+El Planeamiento Estratégico
+
+Generalidades
+
+Iniciaremos el abordaje de este tema con un concepto muy general expresado por V. L. Perel: “El planeamiento es la tarea de tomar decisiones que determinan el curso futuro de la organización, de tal manera que le permita alcanzar sus fines; es un proceso a través del cual, estando previamente fijados sus objetivos, se examinan los posibles cursos de acción alternativos, eligiendo anticipadamente los más adecuados para el logro de tales objetivos”.
+
+Por lo tanto, la característica distintiva del Planeamiento es que consiste en un sistema de decisiones tomadas con anticipación, con diferentes grados de detalle y que abarcan a toda la organización. Los objetivos se definen, cualquiera sea su alcance y desagregación, por:
+
+Atributo: verbo que orienta al objetivo
+
+Unidad de medida: criterio por el que se mide
+
+Cantidad: magnitud medida en la unidad definida
+
+Horizonte: plazo en el que se intentará cumplir
+
+Los objetivos estratégicos son, por definición, a largo plazo, holísticos (abarcan a toda la organización), no programables (decisiones únicas, no repetitivas) y muy agregados (no detallados). Ejemplo: “Alcanzar, al cabo de dos años, el 25% de participación en el mercado”.
+
+Para Fernando Dinardo, “el planeamiento estratégico es un plan a largo plazo, que implica decisiones de efecto duradero y de difícil reversibilidad, que afecta a todas las áreas de la organización, en donde se toman decisiones no programables o no previsibles (por lo que se requiere de experiencia y creatividad), desarrollado en base a varios escenarios, en forma modular, asociado al entorno y apoyado en el conocimiento de la organización, orientado a generar y explotar las ventajas competitivas de la organización”.
+
+El proceso de planeamiento estratégico puede concebirse “como la cristalización y documentación de un conjunto de elecciones y decisiones que debería derivarse de la definición de la estrategia”.
+
+La falta de planeamiento puede justificarse por el deseo de conferir más agilidad a la organización, pero éstas son excusas. El gerente que no planea no está comprometido con la organización.
+
+Niveles de planeamiento
+
+En función del “horizonte de planeamiento” –o sea el tiempo de anticipación de las decisiones de planeamiento- podemos definir tres niveles básicos de planeamiento, que irán variando en forma proporcional de acuerdo con el estrato de la pirámide en que nos encontremos, recordando que cuanto mayor es el nivel de planeamiento, más se acercarán las decisiones a la cima directiva. Describiremos brevemente los tres niveles
+
+Operativo (o programación)
+
+Trata de decisiones de corto alcance temporal
+
+Afecta a pocas funciones (procedimientos)
+
+Se centra en los programas a realizar, su secuencia y su lugar preciso en el tiempo.
+
+Táctico (o de gestión)
+
+Trata sobre decisiones de mediano alcance y cierta reversibilidad Se ocupa de periodos intermedios de tiempo (1 año)
+
+Afecta a una cantidad media de funciones
+
+Se apoya en la utilización de herramientas tales como Presupuestos, Cronogramas, Programas, etc.
+
+Se expresa en metas, que son subconjuntos de objetivos operables y cuantificables, orientados por los objetivos generales (estratégicos), planeados teniendo también noción del todo, pero formulados con mayor desagregación.
+
+Estratégico (o estructural)
+
+Temporal: Asociado al largo plazo
+
+Estructural: Implica decisiones de efectos duraderos y de difícil reversibilidad
+
+Integral: Afecta a un gran número de funciones y áreas de la organización.
+
+Jerárquico: lo realizan los niveles superiores de la organización.
+
+No programable: Se pueden definir modelos generales, pero los mismos no son de aplicación automática ni repetibles en forma directa.
+
+No previsible: Los aspectos claves para tener en cuenta cambian en cada oportunidad lo cual exige creatividad y experiencia para su desarrollo.
+
+Múltiple: Desarrollado para varios escenarios previsibles en el tiempo
+
+Modular: Dividido en distintas etapas interrelacionadas entre sí.
+
+Asociado al entorno: Fuertemente influido por variables exógenas por lo que requiere un análisis del ambiente competitivo externo para detectar las oportunidades y amenazas que surgen de dicho medio.
+
+Apoyado en el conocimiento de la organización, ya que el plan se debe apoyar en un análisis del ambiente interno para conocer las fortalezas y las debilidades de la organización.
+
+Orientado a generar y explotar las ventajas competitivas de la organización.
+
+Ejecución, control y evaluación de los planes.
+
+Hemos señalado que el trazado de planes es un indicio del grado de compromiso de la Gerencia con los objetivos de la organización. Pero es preciso recordar que planear no es suficiente si no se realiza, posteriormente, un adecuado proceso de control. No nos referimos únicamente al consabido control presupuestario –medición en unidades monetarias del cumplimiento de los planes tácticos y operativos-, sino también sobre los planes estratégicos. Robbins y Coulter hacen hincapié en que una verdadera “Administración Estratégica” no concluye con la formulación de las estrategias, sino que abarca la verificación de que ellas se ponen en práctica, y que sus efectos estén en correspondencia con las expectativas que sustentaron su adopción; es decir, que se evalúen sus resultados.
+
+Análisis del ambiente externo de la organización
+
+La competencia
+
+El rasgo más característico del ambiente externo es la existencia de competidores, que son aquellas otras empresas que ofrecen a los potenciales consumidores, bienes o servicios dirigidos a satisfacer las mismas necesidades del mismo segmento del mercado al que nos dirigimos, o pensamos dirigirnos. Nos introduciremos a esta cuestión mediante unas sencillas definiciones:
+
+Necesidad: sentimiento de privación que sufre una persona en relación con una satisfacción general.
+
+Deseo: forma que adopta una necesidad de acuerdo con la cultura y personalidad individual. Se convierte en demanda cuando están respaldados de poder adquisitivo.
+
+Producto: cualquier cosa que se ofrece en un mercado, capaz de satisfacer una necesidad o un deseo.
+
+Está claro que la gente no compra productos, sino que compra elementos satisfactores de sus necesidades. Los productos poseen atributos diferenciadores (físicos o simbólicos) y ciclos de vida: lanzamiento, crecimiento, madurez y declinación.
+
+Para ubicar correctamente la situación de la empresa en el mapa de la competencia, lo primero que debe hacerse es estudiar “qué es lo que la gente necesita / desea / compra” Es visible que compra ciertos bienes y servicios (productos), pero uno de los principios del “marketing” es que el consumidor compra “atributos percibidos”, que incluyen mucho más que los elementos físicos que componen un producto, y que pueden ser reales o aparentes.
+
+El modelo de las 5 Fuerzas de Porter
+
+Una de las características del enfoque moderno es “mirar” qué es lo que está pasando afuera a nivel del “negocio”. Se trata de llevar adelante un análisis competitivo de la industria. Con este término queremos significar un conjunto de empresas que producen artículos sustitutos cercanos unos de otros. Dicho técnicamente, dos productos son sustitutos cercanos cuando tienen una elevada elasticidad cruzada de la demanda, esto es; si uno de ellos aumenta el precio, la demanda se volcará hacia el otro. De esta manera, la empresa lleva a cabo un análisis estructural para evaluar el atractivo de la industria a la cual desea acceder, o bien si ya está en ella y quiere ver cuál es su situación. Para ello puede recurrir a una de las herramientas más usadas: el Modelo de las Cinco Fuerzas de Michael Porter.
+
+Este modelo postula que existen cinco fuerzas que dominan la estructura de una industria o negocio, y que representan y delimitan los precios, los costos y los requerimientos de inversión. Está enfocado a una perspectiva de rentabilidad a largo plazo. Las cinco 5 variables (o fuerzas) del modelo, que se muestran gráficamente y se relacionan en la ilustración 18, son las siguientes:
+
+32 Nuevos ingresos Amenaza de los nuevos ingresos Competidores del sector industrial Proveedores Poder de negociacion de los proveedores Poder de negociacion de los compradores Compradores Intensidad de la rivalidad Amenaza de los sustitutos Sustitutos Ilustración 17 El modelo de las 5 fuerzas de Porter
+
+La amenaza de entrada de nuevos participantes La amenaza de los sustitutos
+
+El poder de negociación de los proveedores
+
+El poder de negociación de los compradores
+
+La intensidad de la rivalidad.
+
+Amenaza de entrada de nuevos participantes
+
+Para la empresa que ya ocupa una posición fuerte en una industria, su tema estratégico no reside solamente en comprender a sus competidores actuales y lograr una ventaja competitiva sobre ellos, sino enfocarse a los inevitables nuevos participantes. Ella preferirá que haya barreras de entrada altas. “Barreras de entrada” es la denominación que se da a los factores que tornan más o menos dificultoso el acceso al mercado de una industria para la empresa que todavía no ha incursionado, y protegen a la ya existente. Por ejemplo: si hay marcas con fuerte posicionamiento en el público, que se muestra muy leal a ellas (encontramos ejemplos en bebidas gaseosas, automóviles standard, analgésicos de venta libre, etc.). También porque la inversión inicial sea muy elevada con relación a pronósticos inciertos de la porción de mercado que se le puede arrebatar a la marca líder. O la necesidad de alcanzar altas escalas de venta y producción para que el nuevo producto sea rentable. Como aclaración adicional conviene saber que, en otro tipo de estudios, el de evaluación de riesgos, se analizan las “barreras de salida”; o sea, que, si se fracasa en el intento, qué costos y dificultades se presentarán para salir de ese mercado: instalaciones y equipos de difícil realización, pérdida de imagen de la empresa (si se la conoce exitosa en sus sectores tradicionales), pérdidas irrecuperables en publicidad si la industria fracasada requirió altas inversiones para posicionarse, etc.
+
+Para esa empresa, dominante, una barrera de entrada alta es fundamental para sostener un nivel de rentabilidad elevado. A la vez, le convendrá que las barreras de salida sean bajas, o sea que haya una puerta de escape no muy onerosa si el negocio deja de ser rentable. Si logra ambas cosas, tendrá una alta rentabilidad protegida por barreras de entrada altas, y estabilidad y menores riesgos gracias a las barreras de salida bajas.
+
+Claro que, si se trata de una empresa que quiere entrar como nuevo jugador en un mercado ya dominado por otras, la situación se invierte: las barreras de entrada altas serán para ella obstáculos que deberá esforzarse en superar, a través de la solución de las exigencias que antes hemos detallado.
+
+Amenaza de los sustitutos
+
+El atractivo de una industria no sólo puede verse socavado por las empresas que participan en la misma, o los nuevos participantes que podrían ingresar al mercado; también es necesario tener en cuenta a aquellas empresas que se dedican a la producción de sustitutos. Decimos que dos productos son sustitutos cuando poseen una elevada elasticidad cruzada de la demanda y representan una alternativa a nuestros productos.
+
+Su presencia le pone techo a la rentabilidad de la industria: ni bien suban los precios la demanda se va a transferir hacia los sustitutos. Tampoco esto es tan lineal: depende de una serie de factores, tales como la disponibilidad de tales sustitutos, los costos comparados, la propensión al cambio por parte de los compradores, la agresividad de los productores de los sustitutos, etc.
+
+Poder de negociación de los proveedores
+
+En el modelo de Porter, “poder de negociación” se refiere a una amenaza impuesta sobre la industria por parte de los proveedores, a causa del poder de que éstos disponen ya sea por su grado de concentración, por la especificidad de los insumos que proveen, por el impacto de estos insumos en el costo de la industria, etc. Se necesitará una estrategia adecuada para que la industria pueda neutralizar estas amenazas, y a ese fin contribuyen otros factores, como la presencia de insumos sustitutos en el mercado, la importancia para el proveedor del volumen que factura a la industria (que puede incluso generar dependencia). En nuestra opinión, además del peso de las cualidades tecnológicas y de las habilidades de negociación, es innegable que lo determinante será la “relación de fuerzas” entre el proveedor y la empresa; quién tenga mayor tamaño y mayor fuerza económica y financiera, podrá imponer sus condiciones a la otra parte. Hay autores de países desarrollados que, por el contrario, afirman que, en el mundo actual de los negocios, si bien se siguen estudiado estas variables, la interpretación ya no es la misma, que no se ven a los proveedores ni a los clientes como entes a los cuales hay que maniatar y dominar (por supuesto, con excepciones...), sino que hay que tratarlos como asociados, trabajando en conjunto para lograr un óptimo rendimiento. Una expresión de este pensamiento sería la aplicación práctica del “just in time”.
+
+Poder de negociación de los compradores
+
+Puede verse como la contracara del poder de negociación de los proveedores. Los determinantes del poder del comprador son de dos tipos:
+
+Palanca negociadora: dada por la concentración de compradores con relación a la concentración de empresas, volúmenes de compra, negociación para la absorción de costos por parte del proveedor, acceso del comprador a información estratégica, capacidad de integración, productos sustitutos disponibles, cambio de productos.
+
+Sensibilidad al precio: dada por la relación de éste con las compras totales, la relativización de la identidad de la marca de su proveedor, el bajo costo del cambio de producto sobre la calidad y desempeño.
+
+La intensidad de la rivalidad: Esta fuerza, que el gráfico sugiere como resultante de las demás, está determinada por varios factores, de los que enumeraremos los principales.
+
+El crecimiento de la industria. - Si la industria crece en forma dinámica y constante, entonces existirán oportunidades para todos los participantes.
+
+Los costos fijos. - Si una de las empresas tiene costos fijos elevados, su punto de equilibrio sube hasta representar un porcentaje elevado de la capacidad plena. Pero si no se alcanza el nivel de producción tal que cubra los costos fijos, el primer reflejo de esa empresa será ofrecer condiciones más atractivas para tratar de elevar la demanda, lo cual tendrá consecuencias sobre el desempeño general de la industria (mayor rivalidad, menos rentabilidad).
+
+Diferenciación de productos. - Cuando en una industria nadie puede decir que su producto es mejor que el de su competidor, por lo que la decisión del cliente pasa únicamente por el precio, las empresas acuden a estrategias de diferenciación de sus productos, tratando de darle al cliente “algo distinto” o “algo más”, un valor agregado como puede ser el servicio posventa, el embalaje, la entrega a domicilio, envases funcionales, tamaños más económicos, incorporación de prestaciones adicionales en servicios, mejores condiciones de pago y plazos de entrega, una imagen ética, etc. Esto suele desencadenar una verdadera guerra entre las marcas. En nuestra opinión, este factor de rivalidad tiene vínculos directos con la amenaza de sustitutos, sean como causas o como efectos recíprocos.
+
+Concentración o diversidad de competidores. - Es mucho más cómodo competir con cuatro grandes empresas que acaparan el 85% del mercado, con una filosofía de competidores homogéneos, que, con cientos de competidores, en un mercado igualmente equilibrado. La experiencia indica que en este último caso no existe esa homogeneidad, por el contrario, las perspectivas competitivas son muy diferentes. En el primer caso, las acciones de un competidor pueden significarle beneficios en el corto plazo, pero probablemente produzca las mismas consecuencias para todos en el largo plazo. Mientras que es más fácil ver (y contrarrestar) lo que hacen cuatro o cinco competidores que monitorear a doscientos.
+
+Identidad de la marca. - Las empresas gastan muchísimo dinero para mantener sus marcas en el inconsciente colectivo, conscientes de la importancia que tiene posicionar su marca. Esta es una fuente de rivalidades que se suelen reflejan en verdaderas “carreras”, para lograr el primer lugar en las preferencias de los consumidores.
+
+Barreras de salida. - Las barreras de salida altas contribuyen al deterioro del atractivo de una industria. Esto se da cuando la industria requiere una gran inversión en tecnología, y los mercados son maduros o declinantes. En estos casos la rentabilidad ya no es la misma que antes y se hace complicada una declinación ordenada.
+
+Contextos nacional e internacional Para clarificar a qué se refiere este último punto del análisis del ambiente externo a la organización, enumeramos en la siguiente tabla algunos ejemplos de sus componentes, cuya validez depende de cada época o momento histórico.
+
+Ambientes Económico Político Legal Social Contexto Internacional Contexto Nacional Dinero circulante y reservas Globalización Indicas de precios Indicadores de la economía mundial Desocupación Tasas de interés internacional Déficit fiscal Exigencias de los organismos financieros Balanza comercial internacionales Evolución del PBI Poder adquisitivo de la población Conflictos internacionales Funcionamiento de los Poderes del Estado Alianzas político-militares Relación Nación / provincias Presiones políticas sobre los Estados.
+
+Leyes de protección y fomento Guerras Elecciones nacionales Regulaciones a las empresas concesionarias de Acuerdo del MERCOSUR servicios Ecología Malestar social Migraciones Exclusión social Enfrentamientos raciales Delincuencia Análisis del ambiente interno de la organización Generación de valor - Cadena de Valor de Porter El modelo de la Cadena del Valor trata de identificar el conjunto de factores internos que determinan la posición de una firma en el mercado, para que una vez identificados puedan ser explotarlos a su máximo exponente, y de esta manera lograr la tan ansiada ventaja competitiva sostenible. Para Porter la Cadena de Valor “proporciona una manera sistemática de examinar todas las actividades realizadas por una firma y cómo ellas interactúan”. A ese fin, distingue actividades primarias y actividades de apoyo. Las actividades primarias están directamente implicadas en el flujo del producto hacia el cliente, e incluyen las siguientes: Logística de entrada: Incluye la recepción, almacenamiento, manejo de materiales, depósito, control de inventario, programación de vehículos y devolución a proveedores.
+
+Operaciones: Transformación de insumos en productos finales (giro de fabricación), montaje, mantenimiento de equipos, control de calidad, manejo de las instalaciones.
+
+Logística de salida: Depósito de producto terminados, distribución, manejo de materiales, operación de vehículos de despacho, procesamiento de pedidos, programación.
+
+Comercialización y ventas: inducir y facilitar a los compradores a la adquisición del producto (publicidad, fuerza de ventas, cotizaciones, selección del canal de comercialización, fijación de precios).
+
+Servicio post – venta: mantener o mejorar el valor del producto después de la venta (instalación, reparación, capacitación, venta de repuestos, etc.) Las actividades de apoyo no sólo dan soporte a las diversas actividades primarias, sino que también se dan apoyo entre ellas: Adquisiciones: Compra de materia prima, suministros y artículos de consumo y bienes.
+
+Desarrollo de la tecnología: “Know-how”, procedimientos, insumos tecnológicos necesarios en toda actividad de la cadena del valor.
+
+Gestión de recursos humanos: Selección, promoción y colocación, evaluación, recompensas, desarrollo ejecutivo y las relaciones sindicato y la empresa.
+
+Infraestructura gerencial: Gestión general, planificación, finanzas, contabilidad, asuntos legales, gubernamentales y gestión de calidad.
+
+Visualmente, este concepto es más sencillo a través de la Ilustración 19 de la Cadena del Valor de Porter, que se muestra en la página siguiente, tal como fuera presentada por el autor en 1985: La palabra “margen” a la derecha de la figura indica que los márgenes de ganancia (diferencia entre lo que paga el cliente y los costos totales incurridos para la fabricación de un bien o la producción de un servicio), dependen de la manera como se administre la cadena de valor. Porter plantea que debe considerarse la totalidad de la cadena de valor, y da como ejemplo que se puede ser el mejor en marketing, pero ello puede no llegar a constituir una ventaja estratégica si no se equipara con las operaciones.
+
+Actividades de apoyo INFRAESTRUCTURA GERENCIAL DE LA EMPRESA Actividades primarias Ilustración 18 Cadena de Valor de Porter
+
+La cultura de la organización.
+
+Los sistemas de conducta, observables en cualquier organización, están básicamente en función de ciertas variables culturales y sociales. Toda organización se crea para ciertos fines y se estructura conforme a ellos y los realiza a través de las relaciones personales que constituyen justamente su estructura.
+
+Las personas que intervienen son, cada una de ellas, portadoras de una serie de valores, de conductas que han sido modeladas por lo aprendido en sus grupos de pertenencia (familia, escuela, amistades, sector social, y en general el medio ambiente que comparten y en el que interactúan). Sus pautas de conducta, función por tanto de la cultura y de la estructura social a que pertenecen los individuos, se reflejan en ellos en forma de sistemas similares en cuanto a caracteres, personalidades y creencias.
+
+Por otra parte, el estudio de las organizaciones no puede considerarlas aisladamente de su medio ambiente cultural: en tanto son organismos sociales actúan dentro del marco del sistema cultural. En este ambiente se plasman los tipos de organizaciones que mejor se acomodan a sus complejos sistemas de ideas, creencias, valores y actitudes, como también a los fines socialmente aceptados. Situada así la cuestión, advertimos que, a su vez, cada organización es, o crea, una subcultura; vale decir, patrones de conducta propios de la organización, adquiridos y ajustados al contexto del patrón cultural de la sociedad, más amplio y que lo comprende.
+
+Estos patrones de comportamiento propios de la organización representan lo que, dentro de ella, se considera "bueno" para los fines de esta y, tácitamente aceptados por sus miembros, pasan a ser el sistema de valores al que éstos -se espera- ajusten sus normas individuales.
+
+La cultura conlleva guías de los comportamientos compartidos por los miembros de una sociedad o grupo. La cultura organizacional expresa presunciones compartidas, valores y creencias y es lo que sostiene unida a la organización. Ella se manifiesta de diferentes formas: normas, modos de vestirse, lenguajes especiales, mitos, rituales, héroes, e historias. (IBM—la gente iba vestida de trajes oscuros, camisa blanca, y zapatos lustrados.
+
+Apple Computer --- remeras, jeans y zapatillas).
+
+En la organización podemos distinguir entre las llamadas “culturas fuertes” y las llamadas “culturas débiles”.
+
+En una cultura fuerte, los estándares y guías son conocidos y compartidos por todos, fomentando una dirección común de comportamiento. En una cultura débil, normas de subgrupos o aun normas individuales generan una mayor influencia que las normas culturales. (existen subculturas). Esto no es necesariamente negativo. En algunas situaciones fuertes subculturas son deseables. Permiten diversidad de pensamientos y acción. También es importante reconocer que en culturas débiles el comportamiento consistente es difícil si no imposible de lograr.
+
+Finalmente, se debe tener en cuenta que existe una cultura exterior a la empresa, nacional o regional, constituida por valores, por percepciones comunes, por maneras parecidas de enfocar la realidad. Ambos niveles de la cultura –la interna y la externa- condicionan e influyen, a veces poderosamente, en los comportamientos y decisiones de la propia organización.
+
+Los recursos de la organización Éste es el último punto por evaluar con relación al ambiente interno. Para ello, se consideran principales a las siguientes variables: Recursos Ítem de análisis Patrimonio neto económicos Volumen de actividades Ratios económicas Endeudamiento Capacidad de acceso al crédito bancario Financieros Capacidad de acceso a nuevos capitales Instalaciones y bienes de uso Capacidad de producción Activos Patentes y marcas Potencial de investigación y desarrollo Formación y experiencia del personal Recursos humanos Integración y fidelidad a la organización Comunicación con los diversos niveles de clientes Acceso a los canales de distribución Habilidades comerciales Efectividad de la publicidad y la promoción Nivel de precios
+
+Matriz BCG
+
+Se trata de una herramienta sumamente importante por su versatilidad, que sirve para determinar la situación actual de los diversos productos de la empresa en función de su perspectiva de desarrollo y de éxito en el mercado, y fundamentalmente para la decisión de inversión que requiere cada línea de producto. Se trata de la Matriz Competitiva, también conocida como Matriz de Portafolio, o Matriz “BCG” (por la consultora Boston Consulting Group). En ella se presentan las cuatro categorías en que es posible ubicar a cada uno de los sectores estratégicos definidos.
+
+Participación en el mercado es la proporción de la demanda efectiva total satisfecha por la empresa, y se mide en porcentajes. Por ejemplo: el champú para cabellos secos marca X tiene el 55% de las ventas de ese tipo de producto (no de toda la línea que produce la empresa).
+
+Tasa de crecimiento es la expectativa de aumento de la demanda de cierto producto específico.
+
+PARTICIPACION RELATIVA EN EL MERCADO BAJA ALTO ?
+
+ESTRELLAS $ BAJO CRECIMIENTO DE LA DEMANDA ALTA VACAS LECHERAS DILEMAS x PESOS MUERTOS Ilustración 19
+
+Matriz BCG
+
+Estrellas: sectores en los que la empresa posee una alta participación en los mercados y están en una etapa de alto crecimiento. Por esta razón no son generadores de flujo de efectivo ya que necesitan de la inversión impulsora para seguir manteniendo la porción de mercado. La perspectiva es que cuando ya no haga falta reinvertir serán generadores de efectivo para la empresa, ofrecerán un alto margen, estabilidad y seguridad, convirtiéndose así en “vacas lecheras”.
+
+Vacas lecheras: fuente de importantes utilidades de la empresa. El crecimiento de la demanda es lento, pero las inversiones en estos sectores son mínimas, y el margen de contribución, elevado. Hay que seguir explotándolo mientras genere rentabilidad y no pensar en nuevas inversiones porque su porvenir es dudoso (por ejemplo, si hubiera un pronóstico de obsolescencia a corto o mediano plazo)..
+
+Dilemas: sectores que a corto plazo contribuyen al crecimiento de la empresa, pero no a sus utilidades, ya que requieren más efectivo que el que generan. Seguirán creciendo, pero exigen altas inversiones para mantener un porcentaje no significativo de mercado. La decisión es incierta. Si son exitosos se pueden convertir en Estrellas; de lo contrario se volverán “perros” (pesos muertos).
+
+Pesos muertos (o “perros”): son los sectores del pasado, que no contribuyen a la utilidad. ni tienen perspectivas de crecimiento. No conviene hacer ninguna nueva inversión para mantenerlos vivos.
+
+Debemos entender que cada línea de productos tiene su propio “ciclo de vida”, y pasan por distintos momentos en cuanto a sus tasas de crecimiento, participaciones en el mercado, inversiones y utilidades. En su conjunto constituyen el “portafolio” que es la resultante (o una de las resultantes) del equilibrio entre los flujos de caja. Mientras que los productos de gran crecimiento necesitan de ingresos en efectivo para poder crecer, los de poco crecimiento deberían generar un exceso de efectivo.
+
+En los ejes, también podemos ubicar a la tasa de rentabilidad y compararla con la de inversión, y de esta manera podemos definir el diagrama con la visión financiera de los sectores estratégicos.
+
+El Análisis FODA
+
+Una de las principales herramientas de diagnóstico es el llamado “Análisis FODA”. Este análisis se expresa en una matriz que orienta a identificar las fortalezas, debilidades, oportunidades y amenazas que caracterizan en ese momento a la organización. El significado de estos términos se puede apreciar de manera sintética en el siguiente esquema:
+
+AMBITO
+
+LA EMPRESA
+
+EL AMBIENTE
+
+POSITIVOS, QUE CONTRIBUYEN O POSIBILITAN EL DESARROLLO.
+
+Fortalezas Oportunidades
+
+NEGATIVOS, QUE LIMITAN O HACER PELIGRAR EL DESARROLLO.
+
+Debilidades Amenazas FACTORES Ilustración 19 Matriz FODA
+
+El Análisis FODA no es un proceso aislado, sino que depende de quién lo está haciendo y para qué. Antes de comenzar a llevar adelante este estudio será pertinente investigar cuál será el costo de conocer los datos de mis competidores (en el marco de la ética y lo legal) y luego decidir si es necesario saberlo.
+
+Los datos de los cuales se nutre la Matriz FODA surgen, entre otras fuentes, de los análisis vistos anteriormente, cuando se desarrollaron metodologías para el análisis de los factores internos y externos de la organización.
+
+Todos los factores pueden ser clasificados como buenos o malos, positivos o negativos, en función de cómo sean evaluados. Así, los factores externos pueden ser oportunidades o amenazas, y los factores internos, fuerzas o debilidades, dependiendo de cuánto se conozcan y de su grado de influencia en el negocio.
+
+Los factores externos son elementos que se encuentran en el medio ambiente o entorno donde la empresa se desenvuelve. El empresario no puede evitar el impacto de los factores externos: clientes, competidores y proveedores; sin embargo, si puede manejarlas en mayor o menor grado para disminuir tal impacto: puede estar alerta a las nuevas exigencias de sus clientes para proporcionarles productos adecuados; puede seguir de cerca a sus competidores para reaccionar más rápidamente ante sus nuevas prácticas; puede evaluar constantemente a sus proveedores y reclamarles que se adapten a los cambios de condiciones. Los otros factores externos (económicos, tecnológicos, políticos, legislativos, socioculturales e internacionales) complican más el panorama y originan cambios que afectan a toda una actividad industrial, o incluso a todo el país y que, aunque no pueden ser controlados directamente por los empresarios, es obligación vigilarlos estrechamente y estar atento a sus posibles consecuencias en el negocio.
+
+De acuerdo con el tipo de negocio, puede variar el impacto o grado de importancia de cada uno de estos factores. Por esta razón es de gran utilidad conocer todos los factores e identificar aquéllos que pueden ser definitivos para el éxito o fracaso del negocio. Conocer de ellos lo más posible hará que uno busque los mecanismos para enfrentarlas adecuadamente.
+
+Estos factores dependiendo del impacto a grado de importancia que tengan en el negocio se convertirán en oportunidades a aprovechar o en amenazas a resolver para garantizar ya sea el crecimiento o la sobrevivencia de la empresa.
+
+Los factores internos están más referidos a la forma de gestionar un negocio, por lo que son factores más controlables por el empresario y que en última instancia están más relacionados con los conocimientos, la experiencia, las habilidades para realizar el trabajo, la intuición para proyectarse, los recursos que se disponen para operar. Al examinar el estado de estos factores, el empresario debe corregirlos en caso necesario y adecuarlos a las necesidades actuales.
+
+Dependiendo de la rama de actividad y las condiciones del entorno y la empresa, un factor externo puede ser oportunidad o amenaza. Este concepto encuentra su máxima expresión en la idea central de “crisis”, que es ambas cosas a la vez.
+
+El proceso es responder a un cuestionario referido a todos los factores internos y externos, calificar cada uno de ellos. Con toda esta información se procede a elaborar la matriz FODA, poniendo las calificaciones en su cuadrante correspondiente. Una vez elaborados los resultados en la matriz FODA, es necesario observar y analizar en dónde quedaron ubicados los resultados, su nivel de impacto y su interrelación. Es relevante preguntarse ¿Predominan las fortalezas y oportunidades? Si es así, el negocio parece estar en buenas condiciones; si, por el contrario, hay más amenazas y debilidades, el negocio puede tener problemas y decaer.
+
+Los 4 elementos del FODA están interrelacionados y constituyen una base para establecer la estrategia de soluciones y desarrollo empresarial, utilizados de la siguiente manera: Desarrollar las fortalezas, consolidar las habilidades distintivas, las diferencias que nos dan ventaja.
+
+Disminuir o atenuar las debilidades, superar las diferencias que nos ponen en desventaja.
+
+Aprovechar las oportunidades, para lo cual diseñar creativamente nuevas alternativas de negocio.
+
+Prevenir y conjurar las amenazas, o al menos reducirlas o soslayarlas.
+
+A los efectos de proveer una metodología de análisis, el Dr. Alberto Levy 33 propone la construcción de dos tablas. En la primera de ellas se analiza al medio ambiente interno con trece variables: a) Gente (solo la cantidad) b) Productivos (planta, procesos, equipos, logística de entrada y salida) c) Financieros (capital de trabajo, costo financiero) 33 “Cómo hacer un análisis FODA” – Alberto Levy d) Infraestructura (depósitos, soporte informático, administración, flota) e) Marca (fuerza de la marca) f) Mística g) Crédito (credibilidad de bancos, proveedores, sindicatos, empleados) h) Tiempo (¿tenemos tiempo sin perder terreno?) i) Información (¿contamos con información buena, de todo y a término?) j) Tecnología (know How, no los fierros. Es lo que sabemos hacer) k) Estabilidad (de los resultados. A mayor variación de los resultados mayor riesgo) l) Organicidad (capacidad de lograr la visión compartida) m) Maniobra (capacidad de innovación, económica, cultural, etc.) Por cada uno de estos 13 ítems es necesario evaluar si el aspecto es muy positivo, positivo, neutro, negativo o muy negativo. Se es positivo, se tratará una fortaleza, mientras que si es negativo será una debilidad.
+
+Además, Levy propone que en cada ítem se defina una iniciativa de innovación. En caso de las fortalezas, la iniciativa deberá servir para CONSOLIDARLA. Si es una debilidad habrá que generar iniciativas para SUPERARLAS.
+
+En el caso del medio ambiente externo, las trece variables serán: a) Impacto externo (variables económicas, demográficas, tecnológicas, políticas, legales, sociales, culturales, ambientales, de comunicación, que generan impacto) b) Envergadura y tasa de crecimiento (la tasa actual comparada con la pasada) c) Nivel de rivalidad (¿nos conviene competir o dedicarnos a otro segmento?) d) Presión de sustitutos (competidores indirectos) e) Barreras de entrada f) Barreras de salida g) Poder de negociación de proveedores h) Poder de negociación de clientes i) Poder de negociación de canal (cadena de comercialización) j) Compatibilidad cultural k) Compatibilidad tecnológica (lo requerido vs lo disponible para fabricar, vender, distribuir, financiar, etc.) l) Tamaño de la apuesta m) Sinergia La técnica de escenarios Introducción Cuando se define el entorno en términos de FUTURO, lo que estamos haciendo es determinar distintos ESCENARIOS POSIBLES. Éstos se pueden trazar con la ayuda de esta moderna herramienta: la Técnica de Escenarios.
+
+La razón para el uso de Escenarios es que en tiempos turbulentos es casi suicida elaborar estrategias como se realizaba 3, 4 o 5 décadas atrás. Existen variantes a esto. Por ejemplo: protegerse, haciendo la empresa “más flexible”, más adaptable, pero esto suele tener un costo muy elevado. Otra opción es la estrategia de “esperar y ver”, pero le estamos entregando la iniciativa al competidor, y esto puede ser letal.
+
+En algún momento, empresas como Kodak y HP hicieron fuertes inversiones para “descubrir” nuevos nichos dentro del mercado en el que operaban. La realidad es que no todas tienen la posición firme dentro de su sector, ni los activos disponibles, ni la aversión al riego necesarios para semejante apuesta.
+
+Resumiendo: “apostar fuerte”, “protegerse” o “esperar y ver”.
+
+Respecto de apostar fuerte, lo que se ve es que las empresas diversifican la inversión en “pequeñas apuestas” con el fin de protegerse (combinación de alternativas), es la naturaleza del hombre controlar la aversión al riesgo, ya que por lo general no solo apuestan por sí mismos, sino que lo hacen “en nombre de” y tienen que rendir cuentas a los accionistas, o incluso a la sociedad misma.
+
+Una alternativa entonces es exponer una visión lo más precisa posible de escenarios alternativos y tratar de probar hasta qué punto estos son sensibles a cambios de las variables clave, determinando el que tenga la mayor probabilidad de ocurrencia para trabajar sobre él. Esto no es bueno porque esta simplificación trae aparejada una subestimación de la incertidumbre, como la que le pasó a Kenneth Olsen cuando en 1977 pensaba que no había razón para que una persona quiera tener una PC en su domicilio, o para quien pensó que nadie podría pagar por ver televisión cuando “se podía ver gratis”, o como quienes pensaban que el petróleo duraría toda la vida. Es por esto que se tiene que llevar a cabo con el mayor rigor metodológico posible.
+
+En estos casos, lo primero es plantearse qué tipo de incertidumbres manejamos: La primera de ellas es la “tradicional”. No por su frecuencia de aparición, sino porque es la primera que se estudia, simplificando al extremo de perder de vista muchas variables. Se imagina un futuro cierto, previsible, y se utilizan un conjunto de herramientas de análisis estratégico tradicional. Tal vez, por esta razón, el trabajo con escenarios no sea lo ideal, por la simpleza del análisis. Siempre hay que evaluar costo-beneficio antes de dar el primer paso.
+
+Futuro simplemente claro Futuros alternativos Abanico de futuros Autentica ambigüedad La segunda describe el futuro como una opción entre unos cuantos escenarios alternativos. En este caso no podemos establecer el futuro, pero podemos establecer probabilidades de ocurrencia, e incluso estar preparados para todos, o al menos para los más probables o importantes.
+
+Por ejemplo, si estamos frente a una modificación legislativa que puede llevar un tiempo, podemos usar esta metodología, y darle una probabilidad de que se vote positivamente o no, determinando los caminos a tomar en cada caso. Para poner más peso de un lado o del otro se llevan a cabo acciones políticas por parte de gerentes y directivos acerca de la conveniencia o no del tratamiento del proyecto de ley. Si la ley ya fue votada se apelan a todas las alternativas legales posibles para torcer el rumbo hacia un lado o hacia el otro, apelando a cierta incertidumbre sobre su aplicación o no.
+
+La tercera (abanico de futuros) se da, por ejemplo, en empresas de sectores emergentes, o cuando una empresa quiere poner sus productos en otro país/sistema cultural. En este caso podría haber una previsión de penetración de mercado muy amplia, y no aparecer escenarios evidentes que puedan prevalecer sobre otros.
+
+Una empresa que tenga asegurada una participación del 30% en el mercado tendrá estrategias agresivas. Si es segmento es del 10% la estrategia será seguramente conservadora, ya que un paso en falso lo saca del mismo. En estos casos suelen buscarse alternativas de asociación a otros “aliados estratégicos”, un tema muy común entre desarrolladores de sistemas operativos y microprocesadores.
+
+El cuarte grado, el de absoluta ambigüedad, ofrece un entorno casi imposible de prever. No se puede acotar un abanico como en el caso anterior. Son casos muy raros, pero existen. Por lo general viran rápidamente hacia alguno de los otros casos. Este tipo de incertidumbre se dio en la Rusia poscomunista, en donde en un determinado momento no se sabía para donde podía salir la legislación o la reglamentación sobre el derecho de propiedad privada, la viabilidad de las cadenas de suministro, y cómo reaccionarían la demanda y consumo de productos y servicios que antes no existían. Estos casos de ambigüedad son difíciles de manejar, pero por suerte son de naturaleza transitoria. El problema acá es que se tiende a desatender el análisis y actuar en base a la intuición.
+
+La bibliografía menciona que la mitad de los problemas de estrategia se sitúan entre la segunda y tercera variante, mientras que la mayoría restante se ubica en la primera. Muchos directivos tienden a pensar todos los problemas con una metodología que se apoye en la segunda variante.
+
+Para ayudar a tomar posición respecto de lo que pueda pasar en el futuro, los gerentes apelan a un set de herramientas tradicionales: investigación de mercado, análisis de costos, análisis de la Cadena del Valor (análisis interno), análisis de las Cinco Fuerzas de Porter (análisis externo), etc., para luego pasar a un modelo de flujo de tesorería descontado para cada escenario.
+
+La técnica de escenarios se basa en la necesidad de vigilar y evaluar tendencias y cambios del medio ambiente externo. No todas las tendencias son importantes, y justamente allí es donde radica lo bueno de esta técnica.
+
+Un escenario es un cuadro coherente de lo que puede ocurrir en el futuro. No se trata de adivinarlo, sino de planificar de manera contingente: “si ocurre tal cosa, actuamos de tal manera”.
+
+Por ejemplo: ¿qué pasa con nuestra empresa si en la negociación paritaria se arranca con un piso del 40%?
+
+¿Qué efecto tendría en nuestro resultado? ¿Tengo la posibilidad de trasladarlo al precio? ¿Cómo responderían mis competidores? ¿Ellos podrían eventualmente trasladarlo? ¿Qué fortalezas tengo para la negociación paritaria dentro del sector?
+
+Insistimos: no se trata de pronosticar el futuro, sino reducir la incertidumbre representando situaciones potenciales en condiciones específicas. A pesar de lo útil que es esta técnica, lo difícil es imaginar eventualidades, sorpresas o caer en errores de observación imposibles de prever. Se trata de aprender a percibir conexiones entre aspectos aparentemente desconectados.
+
+Los pasos en la construcción de los escenarios se resumen de la siguiente manera: 1) Identificar un tema interno o “decisión”. Es importante arrancar de adentro hacia afuera, porque mejora la calidad de lo que tenemos que buscar en el entorno 2) Buscar “factores clave” en el ambiente. Son hechos concretos: una lista de factores que tendrían incidencia en el éxito o el fracaso de mi decisión.
+
+3) “Fuerzas directrices”: son tendencias. Hay que buscar las fuerzas que pueden modificar el curso de mis factores clave- Algunas pueden ser predeterminadas, como podría llegar a ser el crecimiento de la demografía. Otras pueden ser totalmente inciertas, como la opinión pública.
+
+4) Armar un ranking de importancia e incertidumbre de factores clave y fuerzas directrices. De esta manera solo tomaremos en cuenta aquellos escenarios que tengan un peso suficiente (nos inclinaremos por los más importantes y por aquellos que tengan la mayor probabilidad de ocurrencia).
+
+5) Con aquellas Fuerzas Directrices y Factores Clave que elegimos en el punto anterior, armamos todas las posibilidades y determinamos cual (o cuales) representan mejor a la realidad estudiada. A esta se le llama “matriz de implicancias”.
+
+6) En este paso se le da cuerpo al escenario, es decir, se determinan cuáles son las cuestiones que deben producirse para llegar a la situación deseada. En este punto van a surgir los indicadores.
+
+- - Importancia ++ El punto 4 tiene real importancia en función de que es justamente aquí en donde determinamos las variables sobre las que vamos a trabajar. No tiene sentido trabajar sobre un factor clave cuya probabilidad de ocurrencia sea muy baja, y cuyo impacto no implique riesgos o beneficios de real importancia. Si la probabilidad de ocurrencia en baja, pero si sucede corremos riesgos no debemos desatenderla. Por ejemplo: la probabilidad de ocurrencia de un tsunami en bastante baja, pero si con un tsunami quedamos fuera de combate (y estamos en zona de riesgo) tenemos que contemplarlo en nuestro análisis.
+
++ + Incertidumbre - En cada porción habremos de incluir los factores clave y las fuerzas directrices, de acuerdo con su probabilidad de ocurrencia y la importancia relativa para la decisión. Una vez que logramos ubicar cada variable nos centraremos en la franja amarilla, pero especialmente en el cuadrante rojo, y comenzaremos a seguir particularmente las variables que allí se encuentran, intentando anticiparnos a lo que pueda pasar y teniendo un plan de acción para cada caso.
+
+Formulación de estrategias Los elementos de juicio de carácter técnico brindados por todos los análisis precedentes son solamente una base, ningún análisis define de por sí una estrategia. La Dirección deberá evaluarlos como datos para sus decisiones, que no son técnicas sino políticas, libres, no programadas. Habrá de seleccionar una o varias estrategias entre las opciones disponibles, conforme a los conocimientos y a la creatividad de sus miembros.
+
+La formulación de estrategias se propone al solo efecto de lograr una “ventaja competitiva”, la cual tiene como principal característica que sea “sostenible en el tiempo”, ya que sino el esfuerzo será en vano.
+
+Se define con Ventaja Competitiva a todas las características de un producto o servicio que otorgan cierta superioridad por sobre las de sus competidores. Estas ventajas pueden estar referidas al producto o servicio en sí mismo, a los servicios añadidos que acompañan al producto/servicio base, o a las modalidades de producción, distribución o venta.
+
+Estas ventajas competitivas pueden ser externas o internas. Las calificadas como externas se dan cuando se apoya en una cualidad distintiva del producto/servicio que constituye un valor para el comprador, como ser un aumento en el rendimiento siendo que el producto es el mismo. Estas características se encuentran asociadas a las estrategias de Diferenciación.
+
+Cuando hablamos de ventajas competitivas internas, se trata de aquellas que se apoyan en una superioridad de la empresa en el dominio de los costos de fabricación, de gestión, de administración, y que aportan un valor para el productor, proporcionando una mejor relación costo unitario/costo total (liderazgo en costos).
+
+La correcta formulación de estrategias es un factor determinante de la competitividad de la organización; integración, diversificación, liderazgo en costos, son algunas de ellas.
+
+Los autores consultados tipifican las estrategias, de manera que podemos clasificarlas en "de supervivencia" y "de crecimiento", las que se exponen a continuación. De todos modos, es dable observar en la realidad, que las decisiones estratégicas de las empresas suelen consistir en la combinación de ambos tipos.
+
+Estrategias de supervivencia: Acción de refuerzo: La empresa cuya supervivencia está en peligro trata de atenuar las causas de sus debilidades. Puede haber caído la venta de sus productos y/o su rentabilidad, sea por una crisis que afecta a la economía del país, o al sector industrial o comercial del que forma parte, o –lo que sería más grave- una crisis específica de la empresa. Las medidas correctivas pueden abarcar desde la mejora de los productos, la ampliación de sus líneas, el análisis de valor, la recuperación del atraso tecnológico, la mejora y mayor control de los canales de distribución, campañas publicitarias adecuadas, inyección de capital, etc. “Las estrategias de refuerzo son tanto más eficaces cuanto más específica es la crisis” (Sallenave).
+
+Acción de redespliegue: En el caso de una crisis estructural de la empresa, la acción de refuerzo es sólo un paliativo momentáneo. Busca entonces “salir” del encierro de productos tal vez obsoletos o insuficientes, de un mercado que dominan competidores más poderosos, para lo cual busca desplegarse en nuevos sectores más acordes con sus recursos. Suelen emplearse políticas como la “diferenciación de productos” creando algunos más específicos, la “segmentación de mercados” o búsqueda de nichos donde competir mejor, la “especialización” que es la combinación de los dos precedentes, la “diversificación” con nuevos productos para nuevos mercados, etc. En conclusión, el mercadeo (“marketing”) es la función clave del redespliegue.
+
+Acción política: Por medio de peticiones (y también presiones de todo género) sobre los organismos estatales, profesionales, proveedores, público, etc., la empresa puede lograr concesiones para prolongar su supervivencia por un tiempo. Es por cierto “un paso desesperado para atrasar la hora de la verdad, pero combinada con las medidas de refuerzo y redespliegue, permite ganar tiempo … hasta que los efectos de aquéllas se hagan sentir” (Sallenave).
+
+Concluiremos señalando que con frecuencia la recuperación total de una empresa en crisis se apoya en los tres pilares de la estrategia de supervivencia: refuerzo + redespliegue + acción política.
+
+Estrategias para el crecimiento El crecimiento de una empresa puede deberse a cuatro políticas distintas, o, en otras palabras, las empresas disponen de cuatro alternativas para lograr un crecimiento continuo: Penetración del mercado: Mediante esta política, la empresa trata de elevar sus ventas mediante una mayor explotación del mercado sin necesidad de apartarse de la estrategia original de productos y mercados. Pueden mejorar sus canales de distribución; ofrecer distintos incentivos: premios por sorteo, envases con “yapa” (gaseosas, quesos blancos), descuentos por cantidad a mayoristas (el “13x12” en perfumería), obsequios por compras reiteradas (empresas de radiotaxi, lavaderos); intensificar la publicidad, etc.
+
+Desarrollo del mercado: La empresa intenta adaptar sus productos actuales para que cumplan con nuevas finalidades en su relación con los consumidores. Cada producto tiene una misión que cumplir y mediante esta política la empresa, generalmente introduciendo pequeñas modificaciones en las características del producto (“diferenciaciones” no sustanciales), procura establecer nuevas finalidades para sus productos actuales. Por ejemplo: pastas dentífricas y analgésicos para niños, tarjetas de crédito para jóvenes y para productores agropecuarios, etc., lo cual recibe también el nombre de “segmentación del mercado”, porque se abre camino en sectores específicos del mercado con productos muy similares a los existentes.
+
+Desarrollo del producto: Mediante esta estrategia se conservan las finalidades de los productos existentes y se intenta desarrollar productos con características nuevas y diferentes que mejorarán los desempeños en el cumplimiento de sus finalidades. Sin cambiar los productos existentes, se desarrollan otros con características que superan a aquéllos. Por ejemplo, nuevas naftas con mayor octanaje, yerba mate “especial”, producto de una mayor selección o procesado, sistemas de alarma de viviendas con mayores prestaciones (vínculo a una central de alarmas, patrullaje, rastreo), automóviles con accesorios opcionales.
+
+Diversificación: Esta estrategia significa un apartamiento simultáneo con respecto a la presente línea de productos y a la actual estructura del mercado, requiriéndose nuevos talentos o capacidades, nuevas técnicas y facilidades. Se trata de producir artículos o servicios nuevos para la empresa, destinados a mercados también nuevos. Significa, desde nuestro punto de vista, iniciar un emprendimiento nuevo dentro de una empresa existente, aprovechando su prestigio, estructuras de administración, cadenas de comercialización, fondos disponibles para invertir porque sus productos habituales entraron en la etapa de madurez, saturación y menor rendimiento, etc. Claro que esto requiere reclutar nuevos talentos, a veces invertir en nuevas instalaciones y equipos, y adiestrar al personal en nuevas técnicas. Obviamente es la estrategia más riesgosa, que si se pone en práctica exige resguardar cuidadosamente el negocio original de la firma, para que no sea arrastrado en caso de fracaso del nuevo emprendimiento. Tuvimos un claro ejemplo de diversificación en una antigua firma (Bunge y Born) que se inició en el negocio cerealero y luego incursionó en molienda, fabricación y distribución de alimentos, fabricación de pinturas, envases de hojalata, productos químicos, etc. Hace pocos años decidió desprenderse de todos estos ramos (que explotó durante largo tiempo) para retornar a su actividad original de manera exclusiva.
+
+Estas cuatro estrategias están ilustradas en la siguiente, donde se muestran las distintas alternativas que existen de acuerdo con las dimensiones del producto y del mercado.
+
+Mercados M0 Productos M1 M2 P0 Penetración del mercado Desarrollo del mercado P1 P2 P3 Desarrollo del producto Diversificación Polémica sobre la vigencia del Planeamiento Estratégico La llamada planeación estratégica surgió a mediados de los ‘60 con una gran fuerza, propiciada por la popularidad del libro de Igor Ansoff: “Estrategias Corporativas”, publicado en 1965. Cuatro décadas más tarde se sigue manifestando la controversia en torno a su verdadero provecho. Para hacer una breve aproximación a la misma, expondremos a continuación las principales ideas que Henry Mintzberg –su principal detractorpublicó en 1994.
+
+Las críticas de Henry Mintzberg a) “Aunque el concepto de Planeamiento Estratégico no está muerto del todo, ha caído de su pedestal”, dice, y se fundamenta en una serie de peligros, errores y falacias que se le atribuyen. Veamos algunos: Al directivo le absorben tanto los problemas emergentes que dedica poco a la planeación a largo plazo34.
+
+Se inyecta demasiada formalidad al sistema, lo que le quita flexibilidad, fluidez y simplicidad, y restringe la creatividad.
+
+La alta dirección no revisa con los gerentes y jefes de niveles medios los planes a largo plazo que ha establecido.
+
+Poca propensión de la alta dirección de los mecanismos formales para tomar decisiones creativas, que incluso considera intuitivas, lo que choca con el planeamiento. (Steiner, teórico del P.E. escribió: "Si 34 En otro trabajo, Mintzberg afirma que los gerentes no suelen ser planificadores reflexivos y sistemáticos, ya que sus actividades se caracterizan por la brevedad, variedad y discontinuidad.
+
+una organización es administrada por un genio intuitivo, no hay necesidad de llevar a cabo una planeación estratégica formal").
+
+b) Los planificadores han tendido a echar la culpa de los problemas de la llamada "planeación estratégica" a una serie de riesgos, específicamente a la falta de apoyo de la alta dirección y a climas organizacionales no propicios a la planeación. Pero ¿un clima que favorece la planeación estratégica necesariamente es propicio para el pensamiento y acción estratégicos?
+
+c) La planeación se refiere a la formalización, lo que significa la descomposición de un proceso en pasos claros y articulados. La planeación está asociada de esta manera a un “análisis racional". ¿O a un “procedimiento racional”? No es lo mismo pensar estratégicamente, como pensar acerca de estrategias en forma racionalizada, descompuesta, articulada. Igor Ansoff dice en 1964: "La metodología subyacente consiste en una serie de pasos diferenciados y reducidos” Además, la jerarquía corporativa usa con frecuencia la planeación para ejercitar un control sobre los niveles medios y bajos de la administración.
+
+d) El proceso de planeación mismo tiende a producir resistencia al cambio verdadero de las organizaciones.
+
+Esto se debe a su necesidad de descomposición de las categorías; por ejemplo, los niveles existentes de estrategia (corporativa, de negocios, funcional) o los tipos de productos establecidos (definidos como "unidades estratégicas de negocios"), sobrepuestas en las unidades de estructura en boga (divisiones, departamento, etc.). La planeación tiende a promover un cambio transaccional, en vez del creativo, simplemente porque el proceso es analítico, mientras la creatividad requiere síntesis. Mientras que el cambio estratégico real, generalmente significa, el redeterminación de categorías, que desbordan a la planeación, y se concentran en el cambio. Como resultado, una confianza en la planeación tiende a promover estrategias que son extrapoladas del pasado o copiadas de otros.
+
+e) En el ejercicio de planeación estratégica se separa la formulación de la puesta en práctica, el pensamiento de la acción. Los principales administradores ayudados por los planificadores y sus sistemas piensan mientras que todos los demás hacen. Empero –argumenta Mintzberg- la verdadera falacia reside en la separación entre formulación e instrumentación, entre el pensar y el hacer.
+
+f) ¿Puede la planeación estratégica "recrear" el proceso del "genio empresarial"? Michael Porter dice que está "a favor de una serie de técnicas analíticas para desarrollar estrategias”. Pero ¿puede el análisis suministrar una síntesis? La elaboración de estrategias es un proceso sumamente complejo que involucra lo más sofisticado, sutil y a veces subconsciente de los procesos humanos cognoscitivos y sociales. Requiere todo tipo de informaciones, gran parte de las cuales no son cuantificables, son sólo accesibles a los estrategas que están vinculados en vez de aislados. Esto desmiente la suposición reduccionista de que la elaboración informal de estrategias puede ser reducida a una serie de pasos Con los componentes descritos se llega a configurar, según este autor, la gran falacia de la planeación estratégica: Dado que el análisis no es síntesis, la planeación estratégica nunca ha sido una elaboración de estrategias. El análisis puede preceder y apoyar la síntesis, al definir las partes que pueden ser combinadas en un todo. El análisis puede seguir a la elaboración de una síntesis, al descomponer y formalizar sus consecuencias. Pero el análisis no puede sustituir a la síntesis.
+
+Ninguna cantidad de elaboración puede permitir a los procedimientos formales prever discontinuidades, informar a los administradores que se encuentran aislados, crear nuevas estrategias. De esta manera, la planeación lejos de proveer estrategias no puede proceder sin su existencia previa.
+
+Todo este tiempo, por lo tanto, la "planeación estratégica" ha sido llamada así, erróneamente. Debió haber sido llamada "programación estratégica" y promovida como un proceso para formalizar, cuando fuere necesario, las consecuencias de las estrategias diseñadas de antemano.
+
+Los defensores del Planeamiento Estratégico.
+
+A lo largo de todo este material se pudo hallar una somera exposición de las concepciones, fundamentos, técnicas y recomendaciones de una numerosa pléyade de especialistas que en las últimas décadas centraron su estudio en el tema que nos ocupa. Reiteramos que es una síntesis extremadamente apretada de la frondosa bibliografía existente, y de sólo una pequeña parte de los autores. Aun así, podríamos decir que en el presente capítulo se encuentra lo esencial de la defensa del Planeamiento Estratégico, pero como la polémica sigue abierta, agregaremos el extracto de las opiniones de algunos especialistas, recogidas en una nota periodística.
+
+Comienza la nota señalando que cuando el concepto de gestión estratégica irrumpió en la Argentina, parecía destinado a dejar una huella perdurable. Términos como "misión", "visión" y "escenarios" se incorporaron a la jerga cotidiana de las oficinas ejecutivas. ¿Qué quedó de esas doctrinas luego de que la crisis arrasara con los planes -y los patrimonios- de centenares de empresas? ¿Vuelve a imponerse el estilo de conducción de los años ‘80, con horizontes limitados a la supervivencia cotidiana? ¿La visión estratégica no fue más que una moda impulsada por los consultores y las escuelas de negocios?
+
+Armando Bertagnini, director del posgrado en Management Estratégico de la Universidad de San Andrés, no duda en admitir que el ambiente empresario argentino ha sido notablemente sensible a las modas. Sin embargo, más allá de las banalizaciones y los abusos, la Argentina ha llegado a convertirse en uno de los más importantes productores de ideas sobre management en habla hispana.
+
+Bertagnini señalaba que a comienzos de los años 2000 los directivos de empresas se concentraban en la tarea de sobrevivir, lo que consideraba natural y saludable. El enfoque que se imponía en esa etapa requería saber leer las señales, por débiles que parezcan, para abordar el diseño de escenarios (algo que involucra mucho más que una proyección de datos) y equilibrar la flexibilidad con la disciplina. "Si uno vive con la idea de que todas las decisiones son terminales, todas deberán ser asumidas por el capitán del barco, que determina quién se salva y quién no. Pero hay que separar las funciones de supervivencia de las que se orientan a la búsqueda de una estrategia para la nueva etapa. Tiene que haber en la organización alguien que pueda reflexionar y reconsiderar si la empresa va a ser competitiva en su actual sector de actividad", advierte Bertagnini.
+
+José Luis Roces, vicerrector del Instituto Tecnológico de Buenos Aires (ITBA) cree que la difundida estrategia que durante la última década asignó absoluta prioridad a la rentabilidad de corto plazo es responsable de buena parte de los desastres empresarios dentro y fuera de la Argentina. "Con la consigna de que había que crear valor para el accionista, llegó a confundirse estrategia con cuadro de resultados. Fue así como las empresas se embarcaron en reingenierías que consistieron en sacrificar calidad para lograr reducción de costos. Las organizaciones que perduran tienen valores permanentes. no tiene por qué haber una relación antagónica entre la incertidumbre y el pensamiento estratégico. En toda estrategia hay elementos de incertidumbre. De otro modo, no habría emprendedores, y todos seguiríamos el mismo camino",
