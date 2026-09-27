@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0e1116">
+<title>Administración Gerencial · Resumen para estudiar</title>
+<style>
+:root{
+  --ink:#0e1116; --panel:#161b24; --panel-2:#1d2430; --line:#2a3342;
+  --paper:#12161d;
+  --fg:#eef1f6; --muted:#98a4b5; --soft:#c3ccd9;
+  --gold:#c9a24a; --gold-2:#e2c477; --gold-dim:#8a7433;
+  --focus:#e2c477;
+  --serif:"Georgia","Times New Roman",serif;
+  --sans:"Segoe UI",system-ui,Roboto,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html{font-size:20px;scroll-behavior:smooth}
+body{
+  margin:0; color:var(--fg); background:var(--ink);
+  font-family:var(--sans); line-height:1.75; -webkit-font-smoothing:antialiased;
+  background-image:
+    radial-gradient(1200px 600px at 85% -10%, rgba(201,162,74,.10), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, rgba(80,120,180,.08), transparent 60%);
+  background-attachment:fixed;
+}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1500px;margin:0 auto;padding:3.5vh 5vw 6vh}
+
+#progress{position:fixed;top:0;left:0;height:4px;width:0;
+  background:linear-gradient(90deg,var(--gold),var(--gold-2));z-index:50;
+  box-shadow:0 0 12px rgba(226,196,119,.6);transition:width .08s linear}
+
+.reader{max-width:900px;margin:0 auto}
+.crumbs{display:flex;align-items:center;gap:.8rem;color:var(--muted);
+  font-size:.82rem;letter-spacing:.18em;text-transform:uppercase;font-weight:600;margin-bottom:1.1rem}
+.crumbs .chip{background:var(--panel-2);border:1px solid var(--line);
+  color:var(--gold-2);border-radius:999px;padding:.28rem .8rem;letter-spacing:.12em}
+.reader h1{font-family:var(--serif);font-weight:700;font-size:2.5rem;
+  line-height:1.18;margin:.2rem 0 1rem;letter-spacing:.2px}
+.rule{height:1px;background:linear-gradient(90deg,var(--gold),transparent);width:160px;margin:0 0 2rem}
+.reader p{font-size:1.18rem;margin:0 0 1.2rem;color:var(--soft);text-align:justify;hyphens:auto}
+.reader .sub{color:var(--muted);font-size:1.05rem;text-align:left;max-width:60ch}
+
+/* table of contents */
+.toc{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.6rem;
+  margin:0 0 3rem;padding:0;list-style:none}
+.toc a{display:flex;gap:.8rem;align-items:baseline;
+  background:linear-gradient(180deg,var(--panel),var(--panel-2));
+  border:1px solid var(--line);border-left:3px solid transparent;border-radius:12px;
+  padding:.7rem 1rem;font-size:.95rem;line-height:1.3;color:var(--soft);outline:none;
+  transition:border-color .14s,background .14s,transform .14s,box-shadow .14s}
+.toc a b{font-family:var(--serif);color:var(--gold-2);font-size:1.05rem;min-width:2.4rem}
+.toc a:hover,.toc a:focus,.toc a:focus-visible{border-left-color:var(--gold);color:#fff;
+  background:linear-gradient(180deg,#1b2330,#222b3a);transform:translateY(-1px);
+  box-shadow:0 8px 22px rgba(0,0,0,.35),0 0 0 3px rgba(226,196,119,.28)}
+
+/* chapters */
+section.cap{margin:0 0 3.5rem;padding-top:1rem;border-top:1px solid var(--line);scroll-margin-top:1.5rem}
+section.cap h2{font-family:var(--serif);font-weight:700;font-size:1.75rem;line-height:1.2;
+  margin:1.2rem 0 1.1rem;letter-spacing:.2px}
+section.cap h2 .num{display:inline-block;color:var(--gold-2);margin-right:.6rem}
+section.cap .up{display:inline-flex;gap:.5rem;font-size:.78rem;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--muted);font-weight:600;margin-top:.4rem;outline:none;border-radius:8px;padding:.2rem .5rem}
+section.cap .up:hover,section.cap .up:focus{color:var(--gold-2);box-shadow:0 0 0 3px rgba(226,196,119,.3)}
+
+/* figures */
+figure{margin:1.6rem 0 2rem;padding:0}
+figure .frame{background:#fff;border-radius:14px;padding:1rem 1.2rem;border:1px solid var(--line);
+  box-shadow:0 10px 30px rgba(0,0,0,.4);text-align:center}
+figure img{max-width:100%;height:auto;display:inline-block}
+figure.small .frame{display:inline-block;padding:1rem 2rem}
+figure.small{text-align:center}
+figcaption{margin-top:.7rem;color:var(--muted);font-size:.9rem;text-align:center;letter-spacing:.02em}
+figcaption b{color:var(--gold-2);font-weight:600}
+
+/* nav buttons */
+.nav{display:flex;gap:1rem;flex-wrap:wrap;align-items:stretch}
+.nav.top{margin-bottom:2.2rem}
+.nav.bottom{margin:3rem 0 1rem;border-top:1px solid var(--line);padding-top:2rem}
+.btn{display:inline-flex;align-items:center;gap:.6rem;
+  background:var(--panel-2);border:1px solid var(--line);border-radius:12px;
+  padding:.85rem 1.4rem;font-size:1.02rem;font-weight:600;color:var(--soft);
+  cursor:pointer;outline:none;transition:all .14s ease}
+.btn small{display:block;font-size:.68rem;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--muted);font-weight:600;margin-bottom:.1rem}
+.btn:hover,.btn:focus,.btn:focus-visible{
+  border-color:var(--gold);color:#fff;background:#222b3a;
+  box-shadow:0 0 0 3px rgba(226,196,119,.3)}
+.content:empty{min-height:40vh}
+
+footer{color:var(--muted);text-align:center;padding:5vh 0 2vh;font-size:.9rem;
+  border-top:1px solid var(--line);margin-top:4vh;letter-spacing:.04em}
+footer .dot{color:var(--gold);margin:0 .5rem}
+
+@media (max-width:820px){
+  html{font-size:17px}
+  .reader h1{font-size:1.9rem}
+  section.cap h2{font-size:1.4rem}
+  .reader p{text-align:left}
+  .toc{grid-template-columns:1fr}
+  figure .frame{padding:.6rem}
+}
+@media (min-width:1600px){ html{font-size:22px} }
+</style>
+</head>
+<body>
+<div id="progress"></div>
+<div class="wrap">
+
+<div class="reader">
+  <div class="nav top">
+    <a class="btn" href="index.html" tabindex="0">&#9776; <span><small>Volver al</small>Índice</span></a>
+  </div>
+  <div class="crumbs"><span class="chip">Resumen</span> 16 capítulos · ideas principales</div>
+  <h1 id="title">Resumen para estudiar</h1>
+  <div class="rule"></div>
+  <p class="sub">Síntesis de cada capítulo con los autores, definiciones y clasificaciones que hay que memorizar, acompañada de las ilustraciones del apunte original.</p>
+  <ul class="toc" id="toc"></ul>
+  <div id="content" class="content" aria-live="polite">
+    <noscript><p>El resumen se carga desde <a href="summary.txt">summary.txt</a>. Activá JavaScript para leerlo aquí.</p></noscript>
+  </div>
+  <div class="nav bottom"><a class="btn" href="index.html" tabindex="0">&#9776; <span><small>Ver</small>Índice</span></a></div>
+</div>
+<footer>Administración Gerencial<span class="dot">&bull;</span>Resumen de estudio<span class="dot">&bull;</span>Atrás vuelve al índice</footer>
+
+</div>
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  var bar=document.getElementById('progress');
+  (document.querySelector('.btn')||document.body).focus();
+  function upd(){var h=document.documentElement;var sc=h.scrollTop||document.body.scrollTop;
+    var mx=(h.scrollHeight-h.clientHeight)||1;bar.style.width=Math.min(100,sc/mx*100)+'%';}
+  window.addEventListener('scroll',upd,{passive:true});upd();
+
+  // Figures extracted from the PDF. Each one is inserted after the first paragraph of its
+  // chapter that contains the "after" text (or at the end of the chapter if not found).
+  var FIG={
+    'II':[
+      {after:'categorías del medio',src:'images/ilustracion1.png',cap:'Ilustración 1 · Categorías del "medio" de la Administración de Contingencia (Luthans)'},
+      {after:'categorías del medio',src:'images/ilustracion2.png',cap:'Ilustración 2 · Marco conceptual de la Administración de Contingencia'}],
+    'III':[
+      {after:'macroambiente',src:'images/ilustracion3.png',cap:'Ilustración 3 · Sistema cultural externo'}],
+    'IV':[
+      {after:'Gráfico de Sallenave',src:'images/ilustracion4.png',cap:'Ilustración 4 · El gerente según Sallenave'},
+      {after:'estructuras inducidas',src:'images/ilustracion5.png',cap:'Ilustración 5 · Estrategia vs estructura'},
+      {after:'estructuras inducidas',src:'images/ilustracion6.png',cap:'Ilustración 6 · El Grid Gerencial'}],
+    'V':[
+      {after:'diez papeles en tres esferas',src:'images/ilustracion7.png',cap:'Ilustración 7 · Papeles del gerente según H. Mintzberg'},
+      {after:'diez papeles en tres esferas',src:'images/ilustracion8.png',cap:'Ilustración 8 · Habilidades del gerente y la pirámide organizacional'}],
+    'VII':[
+      {after:'Teorías Conductuales',src:'images/ilustracion9.png',cap:'Ilustración 9 · El continuo autocrático-democrático'},
+      {after:'Teorías Contingentes',src:'images/ilustracion10.png',cap:'Ilustración 10 · La teoría situacional (Hersey y Blanchard)'},
+      {after:'Teorías Contingentes',src:'images/ilustracion11.png',cap:'Ilustración 11 · Teoría de la ruta-meta (House)'}],
+    'VIII':[
+      {after:'Ciclo de la motivación',src:'images/ilustracion12.png',cap:'Ilustración 12 · Motivación'},
+      {after:'Maslow (1943)',src:'images/ilustracion13.png',cap:'Ilustración 13 · Pirámide de Maslow'}],
+    'X':[
+      {after:'Schermerhorn',src:'images/tipologia-influencia.png',cap:'Tipología de la influencia según Schermerhorn (campo del poder y de la autoridad)'}],
+    'XI':[
+      {after:'impulsa la autoridad hacia abajo',src:'images/ilustracion14.png',cap:'Ilustración 14 · Delegación y autoridad'}],
+    'XIII':[
+      {after:'vector de la perversidad',src:'images/ilustracion15.png',cap:'Ilustración 15 · Vector de la perversidad'}],
+    'XIV':[
+      {after:'Paradoja de Sallenave',src:'images/ilustracion16.png',cap:'Ilustración 16 · Cultura y estrategia'},
+      {after:'Análisis del ambiente externo',src:'images/ilustracion17.png',cap:'Ilustración 17 · El modelo de las 5 fuerzas de Porter'},
+      {after:'Análisis del ambiente interno',src:'images/ilustracion18.png',cap:'Ilustración 18 · Cadena de valor de Porter'},
+      {after:'Análisis del ambiente interno',src:'images/ilustracion19-bcg.png',cap:'Ilustración 19 · Matriz BCG',small:true},
+      {after:'Análisis FODA',src:'images/ilustracion19-foda.png',cap:'Ilustración 19 · Matriz FODA'},
+      {after:'Análisis FODA',src:'images/tipos-incertidumbre.png',cap:'Los cuatro tipos de incertidumbre (técnica de escenarios)'},
+      {after:'Análisis FODA',src:'images/escenarios-importancia-incertidumbre.png',cap:'Ranking de importancia e incertidumbre: seguir la franja amarilla y sobre todo el cuadrante rojo',small:true},
+      {after:'Formulación de estrategias',src:'images/matriz-producto-mercado.png',cap:'Estrategias de crecimiento: matriz producto / mercado'}],
+    'XV':[
+      {after:'Arquitectura de información',src:'images/ilustracion20.png',cap:'Ilustración 20 · Categorías de la información'}],
+    'XVI':[
+      {after:'Charles Hermann',src:'images/ilustracion21.png',cap:'Ilustración 21 · Tipología de las situaciones problemáticas y críticas (Hermann)'},
+      {after:'ideograma chino',src:'images/ideograma-crisis.png',cap:'Ideograma chino de "crisis": peligro + oportunidad',small:true}]
+  };
+  var ROMAN={I:1,II:2,III:3,IV:4,V:5,VI:6,VII:7,VIII:8,IX:9,X:10,XI:11,XII:12,XIII:13,XIV:14,XV:15,XVI:16};
+
+  function figure(f){
+    var fig=document.createElement('figure'); if(f.small)fig.className='small';
+    var fr=document.createElement('div'); fr.className='frame';
+    var img=document.createElement('img'); img.src=f.src; img.alt=f.cap; img.loading='lazy'; fr.appendChild(img);
+    var fc=document.createElement('figcaption');
+    var m=f.cap.match(/^(Ilustración \d+)\s·\s(.*)$/);
+    if(m){var b=document.createElement('b');b.textContent=m[1];fc.appendChild(b);fc.appendChild(document.createTextNode(' · '+m[2]));}
+    else fc.textContent=f.cap;
+    fig.appendChild(fr); fig.appendChild(fc); return fig;
+  }
+
+  fetch('summary.txt',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.text();})
+    .then(function(t){
+      var box=document.getElementById('content'), toc=document.getElementById('toc'); box.textContent='';
+      var paras=t.replace(/^﻿/,'').split(/\r?\n\s*\r?\n/).map(function(p){return p.replace(/\s*\r?\n\s*/g,' ').trim();}).filter(Boolean);
+      var sec=null, roman=null, pending=[];
+      function flush(){ // append figures not yet placed at the end of the section
+        if(sec&&pending.length){pending.forEach(function(f){sec.appendChild(figure(f));});}
+        pending=[];
+      }
+      paras.forEach(function(par,i){
+        var h=par.match(/^([IVX]+)\s+-\s+(.+)$/);
+        if(i===0 && !h){ return; } // first line is the file title; the page already has one
+        if(h){
+          flush();
+          roman=h[1]; var n=ROMAN[roman]||0;
+          sec=document.createElement('section'); sec.className='cap'; sec.id='cap-'+n;
+          var h2=document.createElement('h2'); var num=document.createElement('span'); num.className='num'; num.textContent=roman;
+          h2.appendChild(num); h2.appendChild(document.createTextNode(h[2])); sec.appendChild(h2);
+          box.appendChild(sec);
+          pending=(FIG[roman]||[]).slice();
+          var li=document.createElement('li'), a=document.createElement('a'); a.href='#cap-'+n; a.tabIndex=0;
+          var b=document.createElement('b'); b.textContent=(n<10?'0':'')+n; a.appendChild(b); a.appendChild(document.createTextNode(h[2]));
+          li.appendChild(a); toc.appendChild(li);
+          return;
+        }
+        if(!sec) return;
+        var p=document.createElement('p'); p.textContent=par; sec.appendChild(p);
+        var rest=[];
+        pending.forEach(function(f){ if(par.indexOf(f.after)>=0) sec.appendChild(figure(f)); else rest.push(f); });
+        pending=rest;
+      });
+      flush();
+      // "volver arriba" link at the end of each chapter
+      [].forEach.call(box.querySelectorAll('section.cap'),function(s){
+        var up=document.createElement('a'); up.href='#toc'; up.className='up'; up.textContent='↑ Volver al listado'; s.appendChild(up);
+      });
+      upd();
+      if(location.hash){var el=document.querySelector(location.hash); if(el)el.scrollIntoView();}
+    })
+    .catch(function(){
+      var box=document.getElementById('content');box.textContent='';
+      var p=document.createElement('p');p.innerHTML='No se pudo cargar el resumen. <a href="summary.txt">Abrir summary.txt</a>';box.appendChild(p);
+    });
+
+  document.addEventListener('keydown',function(e){
+    if(e.key==='Backspace'||e.key==='Escape'){window.location.href='index.html';}
+    if(e.key==='PageDown'){e.preventDefault();window.scrollBy(0,window.innerHeight*0.85);}
+    if(e.key==='PageUp'){e.preventDefault();window.scrollBy(0,-window.innerHeight*0.85);}
+  });
+});
+</script>
+</body>
+</html>
