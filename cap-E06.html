@@ -90,6 +90,16 @@ header.site .sub{color:var(--muted);font-size:1.05rem;max-width:60ch}
 .reader p.lead::first-letter{font-family:var(--serif);float:left;font-size:4.2rem;
   line-height:.82;padding:.12em .14em 0 0;color:var(--gold-2);font-weight:700}
 
+/* figures from the PDF */
+figure{margin:1.6rem 0 2rem;padding:0}
+figure .frame{background:#fff;border-radius:14px;padding:1rem 1.2rem;border:1px solid var(--line);
+  box-shadow:0 10px 30px rgba(0,0,0,.4);text-align:center}
+figure img{max-width:100%;height:auto;display:inline-block}
+figure.small{text-align:center}
+figure.small .frame{display:inline-block;padding:1rem 2rem}
+figcaption{margin-top:.7rem;color:var(--muted);font-size:.9rem;text-align:center;letter-spacing:.02em}
+figcaption b{color:var(--gold-2);font-weight:600}
+
 /* audio player */
 .player{background:linear-gradient(180deg,var(--panel),var(--panel-2));
   border:1px solid var(--line);border-radius:16px;padding:1.1rem 1.3rem;margin:0 0 2.4rem;
@@ -152,6 +162,7 @@ footer .dot{color:var(--gold);margin:0 .5rem}
 <footer>Administración Gerencial<span class="dot">&bull;</span>&#9664; &#9654; cambian de capítulo<span class="dot">&bull;</span>Atrás vuelve al índice</footer>
 
 </div>
+<script src="figures.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded',function(){
   var prev=document.getElementById('prev'), next=document.getElementById('next'), bar=document.getElementById('progress');
@@ -162,10 +173,29 @@ document.addEventListener('DOMContentLoaded',function(){
   fetch('06.txt',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.text();})
     .then(function(t){
       var box=document.getElementById('content');box.textContent='';
+      var figs=((window.FIGURES||{})['06']||[]).slice();
+      function figure(f){
+        var fig=document.createElement('figure'); if(f.small)fig.className='small';
+        var fr=document.createElement('div'); fr.className='frame';
+        var img=document.createElement('img'); img.src=f.src; img.alt=f.cap; img.loading='lazy'; fr.appendChild(img);
+        var fc=document.createElement('figcaption'); var m=f.cap.match(/^(Ilustración \d+)\s·\s(.*)$/);
+        if(m){var b=document.createElement('b');b.textContent=m[1];fc.appendChild(b);fc.appendChild(document.createTextNode(' · '+m[2]));}
+        else fc.textContent=f.cap;
+        fig.appendChild(fr); fig.appendChild(fc); return fig;
+      }
+      function take(par,mode){
+        var rest=[]; figs.forEach(function(f){
+          var hit=(f.mode===mode)&&(f.eq?par===f.at:par.indexOf(f.at)>=0);
+          if(hit)box.appendChild(figure(f)); else rest.push(f);
+        }); figs=rest;
+      }
       t.replace(/^\uFEFF/,'').split(/\r?\n\s*\r?\n/).forEach(function(par,i){
         par=par.replace(/\s*\r?\n\s*/g,' ').trim(); if(!par)return;
+        take(par,'before');
         var p=document.createElement('p'); if(i===0)p.className='lead'; p.textContent=par; box.appendChild(p);
+        take(par,'after');
       });
+      figs.forEach(function(f){box.appendChild(figure(f));});
       upd();
     })
     .catch(function(){
